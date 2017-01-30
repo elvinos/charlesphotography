@@ -1,0 +1,198 @@
+/*
+FOOTER button
+*/
+.buttonFoot {
+  background   : $footer-button-color;
+  color        : $footer-button-font;
+  border       : none;
+  border-radius: 8px;
+  position     : relative;
+  height       : 25px;
+  font-size    : 1em;
+  font-weight  : 300;
+  padding      : 0 0.7em;
+  cursor       : pointer;
+  transition   : 800ms ease all;
+  outline      : none;
+  margin       : 2px 0;
+}
+
+.buttonFoot:hover {
+  background: $footer-button-color;
+  color     : $footer-button-font;
+}
+
+.buttonFoot:before,
+.buttonFoot:after {
+  content      : '';
+  position     : absolute;
+  border-radius: 2px;
+  top          : 0;
+  right        : 0;
+  height       : 1px;
+  width        : 100%;
+  background   : $footer-font-color;
+  transition   : 400ms ease all;
+}
+
+.buttonFoot:after {
+  right : inherit;
+  top   : inherit;
+  left  : 0;
+  bottom: 0;
+}
+
+.buttonFoot:hover:before,
+.buttonFoot:hover:after {
+  width     : 0;
+  transition: 800ms ease all;
+}
+
+/*
+Sidebar Buttor button
+*/
+m-button {
+  $icon-size : 24px;
+  $speed     : 0.6s;
+  position   : absolute;
+  right      : 30px;
+  top        : 14px;
+  z-index    : 251;
+  display    : inline-block;
+  user-select: none;
+  overflow   : hidden;
+  margin     : 4px;
+
+  //box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+  &[role="primary"] {
+    background: white;
+    color     : $menuColor;
+  }
+
+  &[size="big"] {
+    $size      : 40px;
+    height     : $size;
+    flex       : 0 0 $size;
+    width      : $size;
+    line-height: $size;
+    text-align : center;
+  }
+
+  &[shape="round"] {
+    border       : 1px solid #eee;
+    border-radius: 100%;
+  }
+
+  icon {
+    pointer-events: none;
+    position      : absolute;
+    display       : block;
+    top           : 0;
+    right         : 0;
+    bottom        : 0;
+    left          : 0;
+    transition    : transform $speed/2;
+
+    line {
+      $height         : 1.5px;
+      position        : absolute;
+      top             : 50%;
+      left            : 50%;
+      height          : $height;
+      width           : $icon-size;
+      margin          : $height/-2 $icon-size/-2;
+      background      : currentColor;
+      transform-origin: 100% 50%;
+      transition      : transform $speed/2;
+
+      &:nth-child(1) {
+        margin-top: $height/-2 - 8px;
+        transform : scalex(0.5);
+      }
+
+      &:nth-child(2) {
+        transform: scalex(0.75);
+      }
+
+      &:nth-child(3) {
+        transform : scalex(1);
+        margin-top: $height/-2 + 8px;
+      }
+    }
+  }
+
+  &.selected icon {
+    transform: rotate(180deg);
+
+    line {
+      &:nth-child(1) {
+        transform: translatex($icon-size*-0.55) translatey(-3px) rotate(-45deg) scalex(0.67);
+      }
+
+      &:nth-child(2) {
+        transform: scalex(1);
+      }
+
+      &:nth-child(3) {
+        transform: translatex($icon-size*-0.55) translatey(3px) rotate(45deg) scalex(0.67);
+      }
+    }
+  }
+}
+
+/*
+Post Info button
+*/
+
+/* plus & minus */
+.button-plus {
+  z-index: 20;
+  width        : 35px;
+  height       : 35px;
+  border-radius: 100%;
+  border       : 1px solid #eee;
+  overflow     : hidden;
+  right: 30px;
+  top:20px;
+  position     : fixed;
+  display      : inline-block;
+  background: #fff;
+  transition: 0.5s ease;
+  &::after {
+  width     : 2px;
+  height    : 16px;
+  background: #000;
+  position  : absolute;
+  top       : 50%;
+  left      : 50%;
+  margin    : -8px 0 0 -1px;
+  transition: 0.5s ease;
+  content: '';
+}
+  &::before {
+  width     : 16px;
+  height    : 2px;
+  background: #000;
+  position  : absolute;
+  top       : 50%;
+  left      : 50%;
+  margin    : -1px 0 0 -8px;
+  content: '';
+}
+}
+
+.active-but {
+  //background: #000;
+  transition: 0.5s ease;
+  transform : rotate(180deg);
+  &::before {
+  transition: 0.3s ease;
+  transform : rotate(0deg);
+  //background: #fff;
+}
+  &::after {
+  transition: 0.3s ease;
+  transform : rotate(90deg);
+  //background: #fff;
+}
+}

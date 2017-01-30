@@ -1,0 +1,129 @@
+$grid-gutter-width:         30px;
+$grid-float-breakpoint:     1000px;
+
+.footer {
+  z-index: 200;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color:$footer-font-color;
+
+
+  /* Set the fixed height of the footer here */
+  //height: $footer-height;
+  margin-top: $footer-height;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: $footer-color;
+  border-top: 1px solid #eee;
+
+}
+//
+
+#footCont{
+  border-top: $dark-grey, 2px;
+  padding: 0px 10%;
+  @media (max-width: 970px){
+    padding: 0px 2%;
+}
+}
+
+#leftFoot {
+position: relative;
+top: 20px;
+@media (max-width: 768px){
+top:0px;
+padding-left: 20px;
+text-align: center;
+}
+}
+
+#buttonFootLeft {
+  text-align:right;
+  top:12px;
+  @media (max-width: 768px){
+  top:0px;
+  // text-align: right;
+  }
+}
+#buttonFootRight {
+  text-align:left;
+  top:12px;
+  @media (max-width: 768px){
+  top:0px;
+  }
+}
+
+#rightFoot {
+  //width:100%;
+  text-align: right;
+
+  @media (max-width: 768px) {
+    text-align: center;
+  }
+}
+
+.footerFont{
+  font-weight: 300;
+  font-size: 1em;
+}
+
+.donateButton {
+  margin-right: 3px;
+}
+
+.logo{
+  height: 50px;
+  width: 100%;
+  position: relative;
+  display: inline;
+  background{
+    image: url(../images/Logo.png);
+    position: center;
+    repeat: no-repeat;
+    size:40px;
+  }
+}
+
+.centre-Button{
+  width:200px;
+  margin: 0 auto;
+}
+
+
+
+.alert-warning {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.spacer {
+  height: 20px;
+}
+
+
+.text-muted{
+  font-style: italic;
+}
+.contactButton{
+  text-align: center;
+}
+
+body.admin-bar .navbar {
+  position:fixed;
+  top: 28px;
+  z-index: 1000;
+  height: 40px;
+}
+
+body > .container {
+  padding: 40px 15px 0;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
