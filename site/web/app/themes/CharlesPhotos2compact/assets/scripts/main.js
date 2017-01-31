@@ -85,10 +85,15 @@ forEach.call(mButtons, function(el, i) {
         $("img.lazy").lazyload();
       });
 
-        setTimeout(function() {
-          $('body').addClass('loaded');
-          $('h1').css('color', '#222222');
-        }, 1000);
+        // setTimeout(function() {
+        //   $('body').addClass('loaded');
+        //   $('h1').css('color', '#222222');
+        // }, 1500);
+        $(window).load(function() {
+		// Animate loader off screen
+    $('body').addClass('loaded');
+    $('h1').css('color', '#222222');
+	});
 
         var $menu = $('.overlay');
         var hexNav = document.getElementById('hexNav');
