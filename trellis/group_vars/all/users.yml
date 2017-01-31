@@ -25,6 +25,6 @@ web_group: www-data
 web_sudoers:
   - "/usr/sbin/service php7.0-fpm *"
 github_ssh_keys:
-  - username: elvions
+  - username: elvinos
     authorized:
       - "{{ web_user }}"
