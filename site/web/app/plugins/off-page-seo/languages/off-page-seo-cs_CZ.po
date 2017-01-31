@@ -1,0 +1,1080 @@
+# Copyright (C) 2014 Team Yoast
+# This file is distributed under the GPL v3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Off Page SEO 2.2.1\n"
+"POT-Creation-Date: 2016-03-22 09:43+0100\n"
+"PO-Revision-Date: 2016-03-22 09:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: Jakub Glos <info@offpageseoplugin.com>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: modules/backlinks/ops-backlinks-reciprocal-check.php:24
+msgid ""
+"We tried to control your backlinks, but you have this functionality turned "
+"off in the settings."
+msgstr ""
+"Pokusil jsem se o kontrolu zpětných odkazů, ale zdá se, že máte tuto "
+"funkcionalitu v nastavení vypnutou."
+
+#: modules/backlinks/ops-backlinks-reciprocal-check.php:40
+msgid ""
+"Starting new backlink batch control. (Will control 5 backlinks if they are "
+"present)"
+msgstr "Začínám kontrolu zpětných odkazů. (Zkontroluji přítomnost 5 odkazů)"
+
+#: modules/backlinks/ops-backlinks-reciprocal-check.php:80
+msgid "There are no backlinks to be checked."
+msgstr "Bohužel nemám žádné odkazy, které bych zkontroloval."
+
+#: modules/backlinks/ops-backlinks-reciprocal-check.php:83
+msgid "Backlink reciprocal control was finished."
+msgstr "Kontrola zpětných odkazů byla dokončena."
+
+#: modules/backlinks/ops-backlinks-ui.php:33
+#: modules/backlinks/ops-backlinks-ui.php:116
+#: modules/backlinks/ops-backlinks-ui.php:224 modules/core/ops-settings.php:197
+msgid "Backlinks"
+msgstr "Zpětné odkazy"
+
+#: modules/backlinks/ops-backlinks-ui.php:44
+msgid "Backlink added."
+msgstr "Zpětný odkaz přidán."
+
+#: modules/backlinks/ops-backlinks-ui.php:50
+#: modules/backlinks/ops-backlinks-ui.php:199
+msgid "Add a new backlink"
+msgstr "Přidat zpětný odkaz"
+
+#: modules/backlinks/ops-backlinks-ui.php:62
+msgid ""
+"You don't have any backlinks yet. Please add some by clicking the button "
+"above this message."
+msgstr ""
+"Zatím nemáte žádné zpětné odkazy. Prosím přidejte nějaký kliknutím na "
+"tlačítko nad touto zprávou."
+
+#: modules/backlinks/ops-backlinks-ui.php:66
+msgid "Unassigned backlinks"
+msgstr "Nepřiřazené zpětné odkazy"
+
+#: modules/backlinks/ops-backlinks-ui.php:75
+msgid "Assigned backlinks"
+msgstr "Přiřazené zpětné odkazy"
+
+#: modules/backlinks/ops-backlinks-ui.php:100
+msgid "Next reciprocal check will be on "
+msgstr "Další kontrola zpětných odkazů bude"
+
+#: modules/backlinks/ops-backlinks-ui.php:122
+msgid "Total Costs"
+msgstr "Celkové náklady"
+
+#: modules/backlinks/ops-backlinks-ui.php:130
+msgid "Total Monthly Costs"
+msgstr "Celkové měsíční náklady"
+
+#: modules/backlinks/ops-backlinks-ui.php:145
+#: modules/backlinks/ops-backlinks-ui.php:259
+#: modules/rank-report/ops-rank-report-ui.php:348
+#: modules/rank-report/ops-rank-report-ui.php:417
+#: modules/rank-report/ops-rank-report-ui.php:557
+msgid "URL"
+msgstr "URL"
+
+#: modules/backlinks/ops-backlinks-ui.php:148
+#: modules/backlinks/ops-backlinks-ui.php:262 modules/core/ops-settings.php:644
+msgid "Type"
+msgstr "Typ"
+
+#: modules/backlinks/ops-backlinks-ui.php:150
+#: modules/backlinks/ops-backlinks-ui.php:265
+msgid "Backlink"
+msgstr "Zpětný odkaz"
+
+#: modules/backlinks/ops-backlinks-ui.php:151
+#: modules/backlinks/ops-backlinks-ui.php:268
+#: modules/share-counter/ops-share-counter-ui.php:79
+msgid "Article"
+msgstr "Článek"
+
+#: modules/backlinks/ops-backlinks-ui.php:152
+#: modules/backlinks/ops-backlinks-ui.php:177
+#: modules/backlinks/ops-backlinks-ui.php:271
+#: modules/backlinks/ops-backlinks-ui.php:298
+#: modules/opportunities/ops-opportunity-comment.php:24
+msgid "Comment"
+msgstr "Komentář"
+
+#: modules/backlinks/ops-backlinks-ui.php:153
+#: modules/backlinks/ops-backlinks-ui.php:274
+msgid "Sitewide"
+msgstr "Po celém webu"
+
+#: modules/backlinks/ops-backlinks-ui.php:156
+#: modules/backlinks/ops-backlinks-ui.php:278
+msgid "Price"
+msgstr "Cena"
+
+#: modules/backlinks/ops-backlinks-ui.php:159
+#: modules/backlinks/ops-backlinks-ui.php:281
+msgid "Price monthly"
+msgstr "Cena měsíčně"
+
+#: modules/backlinks/ops-backlinks-ui.php:162
+#: modules/backlinks/ops-backlinks-ui.php:284
+msgid "Reciprocal Check"
+msgstr "Kontrolovat přítomnost"
+
+#: modules/backlinks/ops-backlinks-ui.php:165
+msgid "(Notice: reciprocal check is turned off in the Settings.)"
+msgstr "(Poznámka: kontrole zpětných odkazů je v nastavení vypnutá.)"
+
+#: modules/backlinks/ops-backlinks-ui.php:168
+#: modules/backlinks/ops-backlinks-ui.php:287
+#: modules/opportunities/ops-opportunity-comment.php:45
+#: modules/rank-report/ops-rank-report-ui.php:345
+#: modules/rank-report/ops-rank-report-ui.php:414
+#: modules/rank-report/ops-rank-report-ui.php:554
+msgid "Keyword"
+msgstr "Klíčové slovo"
+
+#: modules/backlinks/ops-backlinks-ui.php:171
+msgid "Don't assign to keyword"
+msgstr "Nepřiřazovat klíčovému slovu"
+
+#: modules/backlinks/ops-backlinks-ui.php:180
+#: modules/backlinks/ops-backlinks-ui.php:301
+msgid "Contact"
+msgstr "Kontakt"
+
+#: modules/backlinks/ops-backlinks-ui.php:183
+msgid "Date"
+msgstr "Datum"
+
+#: modules/backlinks/ops-backlinks-ui.php:243
+msgid "ago"
+msgstr "zpět"
+
+#: modules/backlinks/ops-backlinks-ui.php:252
+#: modules/rank-report/ops-rank-report-ui.php:87
+#: modules/rank-report/ops-rank-report-ui.php:280
+#: modules/rank-report/ops-rank-report-ui.php:395
+msgid "Edit"
+msgstr "Editovat"
+
+#: modules/backlinks/ops-backlinks-ui.php:253
+#: modules/rank-report/ops-rank-report-ui.php:88
+#: modules/rank-report/ops-rank-report-ui.php:281
+#: modules/rank-report/ops-rank-report-ui.php:396
+msgid "Delete"
+msgstr "Smazat"
+
+#: modules/backlinks/ops-backlinks-ui.php:291
+msgid "Not assigned"
+msgstr "Nepřiřazené"
+
+#: modules/backlinks/ops-backlinks-ui.php:304
+msgid "Start Date"
+msgstr "Počáteční datum"
+
+#: modules/core/ops-ads.php:37
+msgid "SEO services"
+msgstr "SEO služby"
+
+#: modules/core/ops-ads.php:61
+msgid "We could not fetch SEO tips from our server."
+msgstr "Nemohli jsme získat tipy z našeho serveru."
+
+#: modules/core/ops-dashboard.php:29 modules/core/ops.php:130
+msgid "Off Page SEO"
+msgstr "Off Page SEO"
+
+#: modules/core/ops-dashboard.php:35
+msgid ""
+"You don't have a module activated. Please go to settings and activate one."
+msgstr ""
+"Nemáte aktivován žádný modul. Prosím běžte do nastavení a nějaký aktivujte."
+
+#: modules/core/ops-dashboard.php:78
+msgid ""
+"To get the best use out of this plugin, please activate the Rank Report "
+"module in the settings. You can still use other functionalities separately."
+msgstr ""
+"Tou nejlepší funkcionalitou pluginu je kontrola pozic v Googlu, můžete ji "
+"zapnout v nastavení. Ostatní moduly ale můžete používat separátně."
+
+#: modules/core/ops-dashboard.php:79 modules/core/ops.php:80
+msgid "Settings"
+msgstr "Nastavení"
+
+#: modules/core/ops-email.php:82
+msgid "The following backlink was not found"
+msgstr "Následující zpětný odkaz nebyl nalezen"
+
+#: modules/core/ops-email.php:89
+msgid "... on the website:"
+msgstr "... na této stránce:"
+
+#: modules/core/ops-email.php:157
+msgid "Off Page SEO Rank Report"
+msgstr "Off Page SEO Kontrola pozic"
+
+#: modules/core/ops-email.php:400
+msgid "Off Page SEO Plugin"
+msgstr "Off Page SEO Plugin"
+
+#: modules/core/ops-email.php:412
+msgid "View dashboard"
+msgstr "Prohlédnout nástěnku"
+
+#: modules/core/ops-email.php:450
+msgid "If you don't want to receive this email, please change your "
+msgstr "Pokud si nepřejete dostávat tento email, můžete změnit vaše "
+
+#: modules/core/ops-email.php:452
+msgid "settings"
+msgstr "nastavení"
+
+#: modules/core/ops-opportunities.php:15 modules/core/ops.php:77
+msgid "Opportunities"
+msgstr "Příležitosti"
+
+#: modules/core/ops-settings.php:48
+msgid "Settings were updated."
+msgstr "Nastavení bylo uloženo."
+
+#: modules/core/ops-settings.php:67
+msgid "Forget authorization code."
+msgstr "Zapomenout autorizační kód."
+
+#: modules/core/ops-settings.php:85
+msgid "Force rank report control."
+msgstr "Spustit kontrolu pozic."
+
+#: modules/core/ops-settings.php:102
+msgid "Force global reciprocal check."
+msgstr "Spustit kontrolu zpětných odkazů."
+
+#: modules/core/ops-settings.php:120
+msgid "Inactive keywords were deleted."
+msgstr "Neaktivní klíčová slova byla smazána z databáze."
+
+#: modules/core/ops-settings.php:139
+msgid "Settings saved."
+msgstr "Nastavení uloženo."
+
+#: modules/core/ops-settings.php:165
+msgid "Off Page SEO Settings"
+msgstr "Off Page SEO Nastavení"
+
+#: modules/core/ops-settings.php:180
+#: modules/rank-report/ops-rank-report-ui.php:37
+msgid "Rank Report"
+msgstr "Kontrola pozic"
+
+#: modules/core/ops-settings.php:181
+msgid "Check the position in Google every 3 days."
+msgstr "Kontrolovat pozice ve vyhledávači Google každé 3 dny."
+
+#: modules/core/ops-settings.php:184 modules/core/ops-settings.php:201
+#: modules/core/ops-settings.php:217 modules/core/ops-settings.php:233
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+#: modules/core/ops-settings.php:184 modules/core/ops-settings.php:201
+#: modules/core/ops-settings.php:217 modules/core/ops-settings.php:233
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: modules/core/ops-settings.php:198
+msgid "Record acquired backlinks and control effect on your position."
+msgstr "Zaznamenávat zpětné odkazy a kontrolovat jejich efekt na vaši pozici."
+
+#: modules/core/ops-settings.php:213 modules/core/ops-settings.php:537
+#: modules/google-api/ops-google-api-ui.php:241
+msgid "Google API"
+msgstr "Google API"
+
+#: modules/core/ops-settings.php:214
+msgid "Get value data from Google Webmaster Tools."
+msgstr "Získat cenná data z Google Webmaster Tools."
+
+#: modules/core/ops-settings.php:229
+#: modules/share-counter/ops-share-counter-ui.php:21
+msgid "Share Counter"
+msgstr "Počítadlo sdílení"
+
+#: modules/core/ops-settings.php:230
+msgid "Check how many shares you have on various social websites."
+msgstr "Kontrolovat kolik sdílená máte na jednotlivých sociálních sítích."
+
+#: modules/core/ops-settings.php:244
+msgid "Core Settings"
+msgstr "Základní nastavení"
+
+#: modules/core/ops-settings.php:250
+msgid "Who can view this plugin's data?"
+msgstr "Kdo může vidět data tohoto pluginu?"
+
+#: modules/core/ops-settings.php:257
+msgid "Super administrator"
+msgstr "Super administrátor"
+
+#: modules/core/ops-settings.php:261
+msgid "Administrator"
+msgstr "Administrátor"
+
+#: modules/core/ops-settings.php:264
+msgid "Editor"
+msgstr "Šéfredaktor"
+
+#: modules/core/ops-settings.php:267
+msgid "Author"
+msgstr "Redaktor"
+
+#: modules/core/ops-settings.php:270
+msgid "Contributor"
+msgstr "Spolupracovník"
+
+#: modules/core/ops-settings.php:273
+msgid "Subscriber"
+msgstr "Návštěvník"
+
+#: modules/core/ops-settings.php:281
+msgid "Select your language"
+msgstr "Vyberte jazyk"
+
+#: modules/core/ops-settings.php:296
+msgid "Select the Google domain"
+msgstr "Vyberte Google doménu"
+
+#: modules/core/ops-settings.php:311
+msgid "Notification email"
+msgstr "Oznamovací email"
+
+#: modules/core/ops-settings.php:321
+msgid "Date format"
+msgstr "Formát data"
+
+#: modules/core/ops-settings.php:344
+msgid "Currency"
+msgstr "Měna"
+
+#: modules/core/ops-settings.php:352
+msgid "Use this plugin on the following post types:"
+msgstr "Použít plugin na následujících typech příspěvků:"
+
+#: modules/core/ops-settings.php:353
+msgid "By selecting post type, you will be able to track shares and keywords."
+msgstr ""
+"Vybráním typu budete moci sledovat sdílení a pozice na daná klíčová slova."
+
+#: modules/core/ops-settings.php:356
+msgid "All post types"
+msgstr "Všechny typy příspěvků"
+
+#: modules/core/ops-settings.php:372
+msgid "Selected post types"
+msgstr "Vybrané typy příspěvků"
+
+#: modules/core/ops-settings.php:387
+#: modules/rank-report/ops-rank-report-ui.php:218
+msgid "Show log"
+msgstr "Ukázat log"
+
+#: modules/core/ops-settings.php:394
+msgid "curl version"
+msgstr "curl verze"
+
+#: modules/core/ops-settings.php:402
+msgid ""
+"ERROR: you don't have CURL enabled, most of the features for this plugin "
+"will not work."
+msgstr ""
+"CHYBA: nemáte aktivivané CURL, většina funkcí pluginu nebude správně "
+"fungovat."
+
+#: modules/core/ops-settings.php:403
+msgid ""
+"You don't have the CURL functionality active on your server. Most of this "
+"plugin's features will not work."
+msgstr ""
+"Nemáte CURL funkcionalitu aktivovanou na server. Téměř celý plugin nebude "
+"fungovat správně."
+
+#: modules/core/ops-settings.php:411
+msgid "max_ecec_time"
+msgstr "max_ecec_time"
+
+#: modules/core/ops-settings.php:416
+msgid ""
+"(how long a script can run on the server before it stops. To determine how "
+"long a ranking update lasts, check the log and compare the first and last "
+"keyword checked)"
+msgstr ""
+"(Jak dlouho nechá server běžet skript než ho server ukončí. Abyste zjistili "
+"jak dlouho trvá kontrola pozic ve vyhledávači a zdali vás toto může omezit, "
+"zkontrolujte log, podívejte se na první a poslední klíčové slovo, které bylo "
+"kontrolováno a porovnejte časy.)"
+
+#: modules/core/ops-settings.php:424
+msgid "Rank Report Settings"
+msgstr "Nastavení kontroly pozic"
+
+#: modules/core/ops-settings.php:440
+msgid "Send email with rank report"
+msgstr "Posílat email s výsledky kontroly pozic"
+
+#: modules/core/ops-settings.php:449
+#: modules/google-api/ops-google-api-ui.php:89
+#: modules/google-api/ops-google-api-ui.php:298
+#: modules/google-api/ops-google-api-ui.php:330
+#: modules/google-api/ops-google-api-ui.php:414
+#: modules/google-api/ops-google-api-ui.php:496
+#: modules/google-api/ops-google-api-ui.php:576
+msgid "We are sorry, this feature is available in premium version only."
+msgstr "Omlouváme se, tato funkce je dostupná pouze v prémiové verzi."
+
+#: modules/core/ops-settings.php:450
+#: modules/google-api/ops-google-api-ui.php:90
+#: modules/google-api/ops-google-api-ui.php:299
+#: modules/google-api/ops-google-api-ui.php:331
+#: modules/google-api/ops-google-api-ui.php:415
+#: modules/google-api/ops-google-api-ui.php:497
+#: modules/google-api/ops-google-api-ui.php:577
+#: modules/rank-report/ops-rank-report-ui.php:194
+#: modules/rank-report/ops-rank-report-ui.php:366
+msgid "Upgrade."
+msgstr "Updatovat."
+
+#: modules/core/ops-settings.php:466
+msgid "Delete inactive keywords"
+msgstr "Vymazat neaktivní klíčová slova"
+
+#: modules/core/ops-settings.php:470
+msgid "Delete now"
+msgstr "Smazat"
+
+#: modules/core/ops-settings.php:472
+msgid ""
+"When you delete keyword, it stays in the database as 'inactive', so you dont "
+"lose any data. By clicking this button, you will delete these inactive "
+"keywords."
+msgstr ""
+"Pokaždé, když vymažete klíčové slovo, zůstane v databázi a je neaktivní. "
+"Nepřijdete tak o žádná důležitá data. Kliknutím na toto tlačítko na dobro "
+"vymažete tato neaktivní klíčová slova."
+
+#: modules/core/ops-settings.php:478
+msgid "Perform ranking test now"
+msgstr "Provést kontrolu pozic"
+
+#: modules/core/ops-settings.php:482 modules/core/ops-settings.php:525
+msgid "Schedule in 10s"
+msgstr "Naplánovat za 10s"
+
+#: modules/core/ops-settings.php:484
+msgid "CRON will be set to perform ranking test in 10 seconds."
+msgstr "CRON bude nastaven na kontrolu pozic za 10 sekund."
+
+#: modules/core/ops-settings.php:493
+msgid "Backlinks Settings"
+msgstr "Nastavení zpětných odkazů"
+
+#: modules/core/ops-settings.php:498
+msgid "Run reciprocal check"
+msgstr "Kontrolovat zpětné odkazy"
+
+#: modules/core/ops-settings.php:509
+msgid "Nofity me if the backlink is not found"
+msgstr "Upozornit mě pokud zpětný odkaz není nalezen při kontrole"
+
+#: modules/core/ops-settings.php:515
+msgid ""
+"We will send you an email if the backlink is not found on the control "
+"website and it was present last time."
+msgstr ""
+"Upozorníme vás na oznamovací email pokud zpětný odkaz při pravidelné "
+"kontrole nebude nalezet (a přitom byl přítomný naposledy)."
+
+#: modules/core/ops-settings.php:521
+msgid "Run reciprocal check now"
+msgstr "Provést kontrolu zpětných odkazů"
+
+#: modules/core/ops-settings.php:527
+msgid ""
+"This will trigger backlink control. The reciprocal check is split in to "
+"batches of 5 controls per script trigger, so it can take a while to check "
+"all backlinks."
+msgstr ""
+"Toto tlačítko spustí kontrolu zpětných odkazů. Kontroly jsou rozděleny do "
+"dávek po 5. Kontrola tedy může chvíli trvat."
+
+#: modules/core/ops-settings.php:542
+msgid "Authorization code"
+msgstr "Autorizační kód"
+
+#: modules/core/ops-settings.php:553
+msgid ""
+"You need to authorize this plugin to get your Google Webmaster Tools data."
+msgstr ""
+"Abyste si mohli zobrazit data z Google Webmaster Tools, musíte plugin "
+"autorizovat."
+
+#: modules/core/ops-settings.php:555
+msgid "Get authorization code."
+msgstr "Získat autorizační kód."
+
+#: modules/core/ops-settings.php:565
+msgid "Compare period"
+msgstr "Srovnávací období."
+
+#: modules/core/ops-settings.php:570
+msgid "1 week"
+msgstr "1 týden"
+
+#: modules/core/ops-settings.php:571 modules/core/ops-settings.php:598
+msgid "1 month"
+msgstr "1 měsíc"
+
+#: modules/core/ops-settings.php:572
+#: modules/google-api/ops-google-api-ui.php:351
+#: modules/google-api/ops-google-api-ui.php:433
+#: modules/google-api/ops-google-api-ui.php:516
+#: modules/google-api/ops-google-api-ui.php:596
+msgid "3 months"
+msgstr "3 měsíce"
+
+#: modules/core/ops-settings.php:581
+msgid "Share Counter Settings"
+msgstr "Nastavení počtu sdílení"
+
+#: modules/core/ops-settings.php:587
+msgid "Check shares every"
+msgstr "Kontrolovat sdílení každý"
+
+#: modules/core/ops-settings.php:592
+msgid "1 day"
+msgstr "1 den"
+
+#: modules/core/ops-settings.php:593
+msgid "2 days"
+msgstr "2 dny"
+
+#: modules/core/ops-settings.php:594
+msgid "3 days"
+msgstr "3 dny"
+
+#: modules/core/ops-settings.php:595
+msgid "5 days"
+msgstr "5 dní"
+
+#: modules/core/ops-settings.php:596
+msgid "7 days"
+msgstr "7 dní"
+
+#: modules/core/ops-settings.php:597
+msgid "14 days"
+msgstr "14 dní"
+
+#: modules/core/ops-settings.php:601
+msgid ""
+"The more content you have, the longer the period should be as this can be "
+"expensive on web hosting. The posts are checked individually once the user "
+"reads them."
+msgstr ""
+"Čím více příspěvků máte, tím delší by měla být tato doba. Tato funkce může "
+"být totiž náročná na hosting. Příspěvky jsou kontrolovány jednotlivě, vždy, "
+"když na ně někdo přistoupí."
+
+#: modules/core/ops-settings.php:607
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: modules/core/ops-settings.php:635
+msgid "Off Page SEO Log"
+msgstr "Off Page SEO Log"
+
+#: modules/core/ops-settings.php:637
+msgid ""
+"If you find any bug or if you have any idea how to improve this plugin, feel "
+"free to let us know at info@offpageseoplugin.com."
+msgstr ""
+"Pokud najdete nějakou chybu nebo budete mít nápad na zlešení pluginu, můžete "
+"nám dát vědět na info@offpageseoplugin.com."
+
+#: modules/core/ops-settings.php:642
+msgid "Time"
+msgstr "Čas"
+
+#: modules/core/ops-settings.php:643
+msgid "Action"
+msgstr "Akce"
+
+#: modules/core/ops-settings.php:645
+msgid "Message"
+msgstr "Zpráva"
+
+#: modules/google-api/ops-google-api-ui.php:36
+msgid "You have not set up the authorization code."
+msgstr "Nemáte nastaven autorizační kód."
+
+#: modules/google-api/ops-google-api-ui.php:97
+msgid "Organic Traffic"
+msgstr "Organická návštěvnost"
+
+#: modules/google-api/ops-google-api-ui.php:100
+msgid ""
+"All data are generated from 50 most successful keywords and are delayed a "
+"week. Selected period: "
+msgstr ""
+"Tato data jsou generována z 50 nejúspěšnějších klíčových slov a jsou o týden "
+"zpožděna. Vybrané obdodbí: "
+
+#: modules/google-api/ops-google-api-ui.php:108
+msgid "Total Organic Visitors"
+msgstr "Návštěvníci z vyhledávače Google"
+
+#: modules/google-api/ops-google-api-ui.php:119
+msgid "Total Impressions"
+msgstr "Počet zobrazení"
+
+#: modules/google-api/ops-google-api-ui.php:129
+msgid "Most successful keywords"
+msgstr "Nejúspěšnější klíčová slova"
+
+#: modules/google-api/ops-google-api-ui.php:140
+#: modules/google-api/ops-google-api-ui.php:191
+#: modules/google-api/ops-google-api-ui.php:357
+#: modules/google-api/ops-google-api-ui.php:439
+#: modules/google-api/ops-google-api-ui.php:522
+#: modules/google-api/ops-google-api-ui.php:602
+#: modules/google-api/ops-google-api-ui.php:668
+msgid "Clicks"
+msgstr "Kliknutí"
+
+#: modules/google-api/ops-google-api-ui.php:143
+#: modules/google-api/ops-google-api-ui.php:194
+#: modules/google-api/ops-google-api-ui.php:358
+#: modules/google-api/ops-google-api-ui.php:440
+#: modules/google-api/ops-google-api-ui.php:523
+#: modules/google-api/ops-google-api-ui.php:603
+#: modules/rank-report/ops-rank-report-ui.php:560
+msgid "Position"
+msgstr "Pozice"
+
+#: modules/google-api/ops-google-api-ui.php:172
+#: modules/google-api/ops-google-api-ui.php:225
+msgid "View more"
+msgstr "Zobrazit více"
+
+#: modules/google-api/ops-google-api-ui.php:175
+msgid "No keywords were fetched from the Google API."
+msgstr "Nezískali jsme žádná klíčová slova z Google API."
+
+#: modules/google-api/ops-google-api-ui.php:180
+#: modules/google-api/ops-google-api-ui.php:411
+msgid "Most successful pages"
+msgstr "Nejúspěšnější stránky"
+
+#: modules/google-api/ops-google-api-ui.php:228
+msgid "No pages were fetched from the Google API."
+msgstr "Nezískali jsme žádné stránky z Google API."
+
+#: modules/google-api/ops-google-api-ui.php:248
+#: modules/google-api/ops-google-api-ui.php:327
+#: modules/google-api/ops-google-api-ui.php:345
+msgid "Keywords"
+msgstr "Klíčová slova"
+
+#: modules/google-api/ops-google-api-ui.php:253
+msgid "Pages"
+msgstr "Stránky"
+
+#: modules/google-api/ops-google-api-ui.php:258
+msgid "Country"
+msgstr "Země"
+
+#: modules/google-api/ops-google-api-ui.php:263
+msgid "Device"
+msgstr "Zařízení"
+
+#: modules/google-api/ops-google-api-ui.php:293
+msgid "Please set up Google account in the Settings."
+msgstr "Prosím napojte Google účet v nastavení."
+
+#: modules/google-api/ops-google-api-ui.php:314
+msgid "Please select item from the dropdown menu."
+msgstr "Prosím vyberte položku z vyjížděcího menu."
+
+#: modules/google-api/ops-google-api-ui.php:348
+#: modules/google-api/ops-google-api-ui.php:430
+#: modules/google-api/ops-google-api-ui.php:513
+#: modules/google-api/ops-google-api-ui.php:593
+msgid "Display data for last"
+msgstr "Zobrazit data za poslední"
+
+#: modules/google-api/ops-google-api-ui.php:349
+#: modules/google-api/ops-google-api-ui.php:431
+#: modules/google-api/ops-google-api-ui.php:514
+#: modules/google-api/ops-google-api-ui.php:594
+msgid "week"
+msgstr "týden"
+
+#: modules/google-api/ops-google-api-ui.php:350
+#: modules/google-api/ops-google-api-ui.php:432
+#: modules/google-api/ops-google-api-ui.php:515
+#: modules/google-api/ops-google-api-ui.php:595
+msgid "month"
+msgstr "měsíc"
+
+#: modules/google-api/ops-google-api-ui.php:359
+#: modules/google-api/ops-google-api-ui.php:441
+#: modules/google-api/ops-google-api-ui.php:524
+#: modules/google-api/ops-google-api-ui.php:604
+#: modules/google-api/ops-google-api-ui.php:708
+msgid "Impressions"
+msgstr "Zobrazení"
+
+#: modules/google-api/ops-google-api-ui.php:360
+#: modules/google-api/ops-google-api-ui.php:442
+#: modules/google-api/ops-google-api-ui.php:525
+#: modules/google-api/ops-google-api-ui.php:605
+msgid "CTR"
+msgstr "CTR"
+
+#: modules/google-api/ops-google-api-ui.php:391
+#: modules/google-api/ops-google-api-ui.php:473
+#: modules/google-api/ops-google-api-ui.php:553
+#: modules/google-api/ops-google-api-ui.php:633
+msgid ""
+"If you can't see anything, you may not have any data in Webmaster Tools, or "
+"you may need to check the error"
+msgstr ""
+"Jestliže zde nic nevidíte, možná zatím nemáte v Google Webmaster Tools žádná "
+"data. Možná bude i nějaká chyba v logu."
+
+#: modules/google-api/ops-google-api-ui.php:392
+#: modules/google-api/ops-google-api-ui.php:474
+#: modules/google-api/ops-google-api-ui.php:554
+#: modules/google-api/ops-google-api-ui.php:634
+msgid "error log"
+msgstr "log chyb"
+
+#: modules/google-api/ops-google-api-ui.php:493
+#: modules/google-api/ops-google-api-ui.php:510
+msgid "Which countries are your visitors from?"
+msgstr "Ze kterých zemí návštěvníci přicházejí?"
+
+#: modules/google-api/ops-google-api-ui.php:573
+#: modules/google-api/ops-google-api-ui.php:590
+msgid "On what devices is your website displayed in Google search results?"
+msgstr "Na jakých zařízeních jsou výsledky vyhledávání v Googlu zobrazeny?"
+
+#: modules/google-api/ops-google-api-ui.php:671
+msgid ""
+"Number of times that users clicked on your website in search results "
+"compared to the previous period:"
+msgstr ""
+"Kolikrát uživatel kliknul ve výsledcích vyhledávání na vaši stránku v "
+"porovnání s minulým obdobím:"
+
+#: modules/google-api/ops-google-api-ui.php:688
+msgid "Avg. position"
+msgstr "Prům. pozice"
+
+#: modules/google-api/ops-google-api-ui.php:691
+msgid ""
+"What is the average ranking of the keyword compared to the previous period:"
+msgstr "Jaká je průměrná pozice klíčového slova v porovnání s minulým obdobím:"
+
+#: modules/google-api/ops-google-api-ui.php:711
+msgid ""
+"Number of times this keyword was viewed in search results compared to the "
+"previous period:"
+msgstr ""
+"Kolikrát byla vaše stránka zobrazena na toto klíčové slovo v porovnání s "
+"minulým obdobím:"
+
+#: modules/google-api/ops-google-api-ui.php:767
+msgid "We could not connect to Google API, following error was returned: "
+msgstr "Nemohli jsme se připojit skrze Google API s následující chybou:"
+
+#: modules/google-api/ops-google-api-ui.php:782
+msgid "We've connected to Google API, but we got this error: "
+msgstr ""
+"Připojili jsme se skrze Google API, ale dostali jsme následující chybu:"
+
+#: modules/google-api/ops-google-api-ui.php:788
+msgid "Google API data request returned zero results."
+msgstr "Google API dotaz vrátil nulový výsledek."
+
+#: modules/google-api/ops-google-api.php:51
+msgid "The access token appears to be in the wrong format."
+msgstr "Přístipupový token je ve špatném formátu."
+
+#: modules/google-api/ops-google-api.php:78
+msgid ""
+"Tokens seem to have been refreshed, but it does not contain access token."
+msgstr "Přístupový token jsme získali, bohužel token pro obnovu tam nebyl."
+
+#: modules/google-api/ops-google-api.php:81
+msgid "Token was not refreshed successfully."
+msgstr "Token byl obnoven úspěšně."
+
+#: modules/google-api/ops-google-api.php:84
+msgid "We could not connect to Google API: "
+msgstr "Nemohl jsme se připojit skrze Google API: "
+
+#: modules/opportunities/ops-opportunity-buy.php:18
+msgid "Buy"
+msgstr "Koupit"
+
+#: modules/opportunities/ops-opportunity-comment.php:39
+msgid "Your language is not supported, please"
+msgstr "Váš jazyk není podporován, prosím"
+
+#: modules/opportunities/ops-opportunity-comment.php:40
+msgid "contact us"
+msgstr "kontaktujte nás"
+
+#: modules/opportunities/ops-opportunity-comment.php:40
+msgid "to improve this plugin."
+msgstr "abychom plugin vylepšili."
+
+#: modules/opportunities/ops-opportunity-comment.php:46
+msgid "Get ideas"
+msgstr "Získat příležitosti"
+
+#: modules/opportunities/ops-opportunity-comment.php:50
+msgid "Please type in your keyword and generate ideas."
+msgstr "Prosím, vepište klíčové slovo a vygenerujte možnosti."
+
+#: modules/opportunities/ops-opportunity-comment.php:83
+msgid "Browse"
+msgstr "Procházet"
+
+#: modules/rank-report/ops-rank-report-ui.php:55
+msgid ""
+"You don't have any keyword set up. Please edit any post or page and add it "
+"from there."
+msgstr ""
+"Nemáte žádná klíčová slova ve sledování. Můžete je přidat pokud budete "
+"editovat příspěvek (definovaný v nastavení)."
+
+#: modules/rank-report/ops-rank-report-ui.php:104
+#: modules/rank-report/ops-rank-report-ui.php:297
+msgid "per month"
+msgstr "měsíčně"
+
+#: modules/rank-report/ops-rank-report-ui.php:166
+#: modules/rank-report/ops-rank-report-ui.php:352
+#: modules/rank-report/ops-rank-report-ui.php:406
+#: modules/rank-report/ops-rank-report-ui.php:421
+msgid "Searches per month"
+msgstr "Hledání za měsíc"
+
+#: modules/rank-report/ops-rank-report-ui.php:171
+msgid "Post ID"
+msgstr "ID příspěvku"
+
+#: modules/rank-report/ops-rank-report-ui.php:175
+msgid "Edit post"
+msgstr "Upravit příspěvek"
+
+#: modules/rank-report/ops-rank-report-ui.php:193
+#: modules/rank-report/ops-rank-report-ui.php:365
+msgid "We are sorry, you can only track one keyword in the free version."
+msgstr "Omlouváme se, ve free verzi můžete kontrolovat pouze jednu pozici."
+
+#: modules/rank-report/ops-rank-report-ui.php:202
+msgid "Next update will be on"
+msgstr "Další přepočet bude"
+
+#: modules/rank-report/ops-rank-report-ui.php:215
+msgid "Show keyword list"
+msgstr "Seznam klíčových slov"
+
+#: modules/rank-report/ops-rank-report-ui.php:256
+msgid "Based on your current positions, filled search volumes and"
+msgstr "Založeno na vašich aktuálních pozicích, hlednosti a"
+
+#: modules/rank-report/ops-rank-report-ui.php:258
+msgid "this resarch"
+msgstr "tomto výzkumu"
+
+#: modules/rank-report/ops-rank-report-ui.php:369
+msgid "Add a new keyword"
+msgstr "Přidat klíčové slovo"
+
+#: modules/rank-report/ops-rank-report-ui.php:541
+msgid "positions were checked."
+msgstr "pozice byly zkontrolovány."
+
+#: modules/rank-report/ops-rank-report-ui.php:563
+msgid "Change"
+msgstr "Změna"
+
+#: modules/rank-report/ops-rank-report-ui.php:637
+msgid ""
+"You are slowly reaching limit of your hosting max_execution_time. Please "
+"consider removing couple keywords or raising the limit."
+msgstr ""
+"Pomalu se blížíte k hostingovému limitu max_execution_time. Prosím, zvažte "
+"vymazání nějakého klíčového slova nebo zvýšení limitu."
+
+#: modules/rank-report/ops-rank-report-ui.php:639
+msgid "Expected time needed for ranking control:"
+msgstr "Předpokládaná doba pro kontrolu pozic:"
+
+#: modules/rank-report/ops-rank-report-ui.php:641
+msgid "max_execution_time:"
+msgstr "max_execution_time:"
+
+#: modules/rank-report/ops-rank-report.php:127
+msgid "A new keyword was added."
+msgstr "Nové klíčové slovo přidáno."
+
+#: modules/rank-report/ops-rank-report.php:129
+msgid "Error adding new keyword."
+msgstr "Chyba při vkládání nového klíčového slova."
+
+#: modules/rank-report/ops-rank-report.php:147
+msgid "Ranking update started - good luck!"
+msgstr "Kontrola pozic začala - hodně štěstí!"
+
+#: modules/rank-report/ops-rank-report.php:152
+#: modules/rank-report/ops-rank-report.php:208
+msgid ""
+"Ranking update ended after settings (Google domain, language) validation "
+"error."
+msgstr ""
+"Kontrola pozic skončila chybným nastavením (Google doména a jazyk není "
+"vyplněno)."
+
+#: modules/rank-report/ops-rank-report.php:193
+msgid "You do not have any active keywords, please add some."
+msgstr "Nemáte žádná aktivní klíčová slova, přidejte nějaká, prosím."
+
+#: modules/rank-report/ops-rank-report.php:197
+msgid "Ranking update finished."
+msgstr "Kontrola pozic dokončena."
+
+#: modules/rank-report/ops-rank-report.php:220
+#, php-format
+msgid "Starting control - method: \"<b>%1$s</b>\", keyword: \"<b>%2$s</b>\"."
+msgstr ""
+"Začátek kontroly - metoda: \"<b>%1$s</b>\", klíčové slovo: \"<b>%2$s</b>\"."
+
+#: modules/rank-report/ops-rank-report.php:264
+msgid "Google requires captcha. Changing to a different method – Hide My Ass."
+msgstr ""
+"Google vyžaduje antispamovou kontrolu. Zkouším jinou metodu - Hide My Ass."
+
+#: modules/rank-report/ops-rank-report.php:293
+msgid "Google requires captcha."
+msgstr "Google vyžaduje antispamový kód."
+
+#: modules/rank-report/ops-rank-report.php:296
+msgid "Error fetching Google data. Trying another method - Hide My Ass."
+msgstr "Chyba při získání dat z Googlu. Zkouším jinou metodu - Hide My Ass."
+
+#: modules/rank-report/ops-rank-report.php:427
+msgid ""
+"There was no keyword in the HideMyAss fetched page. Trying another method: "
+"google ajax api for keyword: "
+msgstr ""
+"Nenašli jsme klíčové slovo na Hide My Ass stránce. Zkouším další metodu: "
+"google ajax api pro klíčové slovo: "
+
+#: modules/rank-report/ops-rank-report.php:437
+msgid ""
+"The HideMyAss first page does not redirect. Trying again with Google ajax "
+"api for keyword:"
+msgstr ""
+"První HideMyAss strana nás neredirectovala správně. Zkoušíme znovu s Google "
+"ajax api pro klíčové slovo:"
+
+#: modules/rank-report/ops-rank-report.php:470
+msgid "We did not receive any data from the requested URL:"
+msgstr "Nedostali jsme žádnou odpověď z URL:"
+
+#: modules/rank-report/ops-rank-report.php:525
+msgid "Settings validation error for field: language."
+msgstr "Chyba nastavení: jazyk"
+
+#: modules/rank-report/ops-rank-report.php:530
+msgid "Settings validation error for field: Google domain."
+msgstr "Chyba nastavení: Google doména"
+
+#: modules/share-counter/ops-share-counter-ui.php:36
+msgid "Display data for posts from:"
+msgstr "Zobrazit data pro příspěvky z:"
+
+#: modules/share-counter/ops-share-counter-ui.php:37
+msgid "all time"
+msgstr "celé období"
+
+#: modules/share-counter/ops-share-counter-ui.php:38
+msgid "this month"
+msgstr "tento měsíc"
+
+#: modules/share-counter/ops-share-counter-ui.php:39
+msgid "this week"
+msgstr "tento týden"
+
+#: modules/share-counter/ops-share-counter-ui.php:86
+msgid "Total"
+msgstr "Celkem"
+
+#~ msgid "Keywords & Rank"
+#~ msgstr "Klíčová slova a pozice"
+
+#~ msgid "Your keyword"
+#~ msgstr "Vaše klíčové slovo"
+
+#~ msgid "Google requires captcha. Changing to a different method – HideMyAss."
+#~ msgstr ""
+#~ "Google požaduje vyplnit antispamovou ochranu. Zkoušíme jinou metodu - "
+#~ "proxy servery HideMyAss."
+
+#~ msgid "Error fetching Google data. Trying another method - HideMyAss."
+#~ msgstr ""
+#~ "Chyba při záskávání dat z Googlu. Zkoušíme jinou metodu - HideMyAss."
+
+#~ msgid ""
+#~ "There was no keyword in the HideMyAss fetched page. Trying another "
+#~ "method: google ajax api for keyword:"
+#~ msgstr ""
+#~ "Nenašli jsme žádné klíčové slovo ve stránce, kterou jsme stáhli z proxy "
+#~ "serverů HideMyAss. Zkoušíme další metodu Google ajax API pro klíčové "
+#~ "slovo:"
+
+#~ msgid "Query"
+#~ msgstr "Dotaz"
+
+#~ msgid "Page"
+#~ msgstr "Stránka"
+
+#~ msgid "Authentication error: "
+#~ msgstr "Chyba autorizace: "
+
+#~ msgid ""
+#~ "We are trying to connect to Google API, but we don't have access tokens: "
+#~ msgstr "Snažím se připojit skrze Google API, ale nemám přístupový token: "
+
+#~ msgid "Show visitor estimation"
+#~ msgstr "Ukázat odhad návštěvníků"

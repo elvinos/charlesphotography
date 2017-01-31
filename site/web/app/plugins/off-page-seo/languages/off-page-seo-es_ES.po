@@ -1,0 +1,949 @@
+# Translation of Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-27 12:14:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: modules/google-api/ops-google-api-ui.php:173
+#: modules/google-api/ops-google-api-ui.php:225
+msgid "View more"
+msgstr "Ver más"
+
+#: modules/google-api/ops-google-api-ui.php:228
+msgid "No pages were fetched from the Google API."
+msgstr "No se obtuvieron páginas del API de Google."
+
+#: modules/core/ops.php:88
+msgid "Record Backlink"
+msgstr "Grabar Backlink"
+
+#: modules/google-api/ops-google-api-ui.php:129
+msgid "Most successful keywords"
+msgstr "Las palabras clave más exitosas"
+
+#: modules/google-api/ops-google-api-ui.php:176
+msgid "No keywords were fetched from the Google API."
+msgstr "No se obtuvieron palabras clave del API de Google."
+
+#: modules/rank-report/ops-rank-report-ui.php:640
+msgid "Expected time needed for ranking control:"
+msgstr "Tiempo estimado para la actualización de ranking:"
+
+#: modules/rank-report/ops-rank-report-ui.php:638
+msgid "You are slowly reaching limit of your hosting max_execution_time. Please consider removing couple keywords or raising the limit."
+msgstr "Usted está alcanzando el límite máximo de tiempo de ejecución de su servidor. Por favor considere remover unas cuantas palabras claves o incrementar este límite (max_execution_time)."
+
+#: modules/rank-report/ops-rank-report-ui.php:642
+msgid "max_execution_time:"
+msgstr "max_execution_time:"
+
+#: modules/core/ops-settings.php:266
+msgid "Author"
+msgstr "Autor"
+
+#: modules/backlinks/ops-backlinks-ui.php:252
+#: modules/rank-report/ops-rank-report-ui.php:88
+#: modules/rank-report/ops-rank-report-ui.php:281
+#: modules/rank-report/ops-rank-report-ui.php:396
+msgid "Edit"
+msgstr "Corregir"
+
+#: modules/backlinks/ops-backlinks-reciprocal-check.php:24
+msgid "We tried to control your backlinks, but you have this functionality turned off in the settings."
+msgstr "Se intentó cotejar sus backlinks, pero Usted ha desactivado esta función en su configuración."
+
+#: modules/backlinks/ops-backlinks-reciprocal-check.php:40
+msgid "Starting new backlink batch control. (Will control 5 backlinks if they are present)"
+msgstr "Comenzando a cotejar sus backlinks. (Si existen, se revisarán 5 a la vez)"
+
+#: modules/backlinks/ops-backlinks-reciprocal-check.php:80
+msgid "There are no backlinks to be checked."
+msgstr "No hay backlinks para cotejar."
+
+#: modules/backlinks/ops-backlinks-reciprocal-check.php:83
+msgid "Backlink reciprocal control was finished."
+msgstr "El cotejo de sus backlinks ha concluido."
+
+#: modules/backlinks/ops-backlinks-ui.php:33
+#: modules/backlinks/ops-backlinks-ui.php:116
+#: modules/backlinks/ops-backlinks-ui.php:224 modules/core/ops-settings.php:196
+msgid "Backlinks"
+msgstr "Backlinks"
+
+#: modules/backlinks/ops-backlinks-ui.php:44
+msgid "Backlink added."
+msgstr "Se agregó backlink."
+
+#: modules/backlinks/ops-backlinks-ui.php:50
+#: modules/backlinks/ops-backlinks-ui.php:199
+msgid "Add a new backlink"
+msgstr "Agregar backlink"
+
+#: modules/backlinks/ops-backlinks-ui.php:62
+msgid "You don't have any backlinks yet. Please add some by clicking the button above this message."
+msgstr "Usted no tiene backlinks. Puede agregarlas haciendo click en el botón de arriba."
+
+#: modules/backlinks/ops-backlinks-ui.php:66
+msgid "Unassigned backlinks"
+msgstr "Backlinks sin asignación"
+
+#: modules/backlinks/ops-backlinks-ui.php:75
+msgid "Assigned backlinks"
+msgstr "Backlinks asignadas"
+
+#: modules/backlinks/ops-backlinks-ui.php:100
+msgid "Next reciprocal check will be on "
+msgstr "Fecha y hora del próximo cotejo de backlinks:"
+
+#: modules/backlinks/ops-backlinks-ui.php:122
+msgid "Total Costs"
+msgstr "Costo Total"
+
+#: modules/backlinks/ops-backlinks-ui.php:130
+msgid "Total Monthly Costs"
+msgstr "Costo Mensual"
+
+#: modules/backlinks/ops-backlinks-ui.php:145
+#: modules/backlinks/ops-backlinks-ui.php:259
+#: modules/rank-report/ops-rank-report-ui.php:349
+#: modules/rank-report/ops-rank-report-ui.php:418
+#: modules/rank-report/ops-rank-report-ui.php:558
+msgid "URL"
+msgstr "URL"
+
+#: modules/backlinks/ops-backlinks-ui.php:148
+#: modules/backlinks/ops-backlinks-ui.php:262 modules/core/ops-settings.php:643
+msgid "Type"
+msgstr "Tipo"
+
+#: modules/backlinks/ops-backlinks-ui.php:150
+#: modules/backlinks/ops-backlinks-ui.php:265
+msgid "Backlink"
+msgstr "Backlink"
+
+#: modules/backlinks/ops-backlinks-ui.php:151
+#: modules/backlinks/ops-backlinks-ui.php:268
+#: modules/share-counter/ops-share-counter-ui.php:79
+msgid "Article"
+msgstr "Article"
+
+#: modules/backlinks/ops-backlinks-ui.php:152
+#: modules/backlinks/ops-backlinks-ui.php:177
+#: modules/backlinks/ops-backlinks-ui.php:271
+#: modules/backlinks/ops-backlinks-ui.php:298
+#: modules/opportunities/ops-opportunity-comment.php:24
+msgid "Comment"
+msgstr "Comentar"
+
+#: modules/backlinks/ops-backlinks-ui.php:153
+#: modules/backlinks/ops-backlinks-ui.php:274
+msgid "Sitewide"
+msgstr "Sitewide"
+
+#: modules/backlinks/ops-backlinks-ui.php:156
+#: modules/backlinks/ops-backlinks-ui.php:278
+msgid "Price"
+msgstr "Price"
+
+#: modules/backlinks/ops-backlinks-ui.php:159
+#: modules/backlinks/ops-backlinks-ui.php:281
+msgid "Price monthly"
+msgstr "Precio mensual"
+
+#: modules/backlinks/ops-backlinks-ui.php:162
+#: modules/backlinks/ops-backlinks-ui.php:284
+msgid "Reciprocal Check"
+msgstr "Cotejo de backlinks"
+
+#: modules/backlinks/ops-backlinks-ui.php:165
+msgid "(Notice: reciprocal check is turned off in the Settings.)"
+msgstr "(Aviso: el cotejo de backlinks esta desactivado en su configuración.)"
+
+#. Author of the plugin/theme
+msgid "Jakub Glos"
+msgstr "Jakub Glos"
+
+#. #-#-#-#-#  tmp-off-page-seo.pot (Off Page SEO 2.2.1.)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-off-page-seo.pot (Off Page SEO 2.2.1.)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.offpageseoplugin.com/"
+msgstr "http://www.offpageseoplugin.com"
+
+#: modules/share-counter/ops-share-counter-ui.php:86
+msgid "Total"
+msgstr "Total"
+
+#: modules/share-counter/ops-share-counter-ui.php:39
+msgid "this week"
+msgstr "esta semana"
+
+#: modules/share-counter/ops-share-counter-ui.php:38
+msgid "this month"
+msgstr "este mes"
+
+#. Description of the plugin/theme
+msgid "Provides various tools to help you with the off-page SEO."
+msgstr "Proporciona varias herramientas para ayudarle con el SEO externo."
+
+#: modules/backlinks/ops-backlinks-ui.php:253
+#: modules/rank-report/ops-rank-report-ui.php:89
+#: modules/rank-report/ops-rank-report-ui.php:282
+#: modules/rank-report/ops-rank-report-ui.php:397
+msgid "Delete"
+msgstr "Eliminar"
+
+#: modules/backlinks/ops-backlinks-ui.php:243
+msgid "ago"
+msgstr "hace"
+
+#: modules/core/ops-dashboard.php:79 modules/core/ops.php:133
+msgid "Settings"
+msgstr "Configuraci&oacute;n"
+
+#: modules/backlinks/ops-backlinks-ui.php:183
+msgid "Date"
+msgstr "Fecha"
+
+#: modules/core/ops-settings.php:140
+msgid "Settings saved."
+msgstr "La configuración se ha guardado."
+
+#: modules/google-api/ops-google-api-ui.php:143
+#: modules/google-api/ops-google-api-ui.php:195
+#: modules/google-api/ops-google-api-ui.php:358
+#: modules/google-api/ops-google-api-ui.php:440
+#: modules/google-api/ops-google-api-ui.php:523
+#: modules/google-api/ops-google-api-ui.php:603
+#: modules/rank-report/ops-rank-report-ui.php:561
+msgid "Position"
+msgstr "Posición"
+
+#: modules/core/ops-settings.php:606
+msgid "Save Settings"
+msgstr "Guardar configuración"
+
+#: modules/google-api/ops-google-api-ui.php:253
+msgid "Pages"
+msgstr "Páginas"
+
+#: modules/rank-report/ops-rank-report-ui.php:564
+msgid "Change"
+msgstr "Cambiar"
+
+#: modules/core/ops-settings.php:343
+msgid "Currency"
+msgstr "Divisa"
+
+#: modules/core/ops-settings.php:644
+msgid "Message"
+msgstr "Mensaje"
+
+#: modules/share-counter/ops-share-counter-ui.php:37
+msgid "all time"
+msgstr "histórico"
+
+#: modules/rank-report/ops-rank-report.php:202
+msgid "Ranking update finished."
+msgstr "Actualización terminada."
+
+#: modules/rank-report/ops-rank-report.php:269
+msgid "Google requires captcha. Changing to a different method – Hide My Ass."
+msgstr "Google requiere \"capcha\". Cambiando a un método diferente - \"Hide My Ass\"."
+
+#: modules/rank-report/ops-rank-report.php:298
+msgid "Google requires captcha."
+msgstr "Google requiere \"capcha\"."
+
+#: modules/rank-report/ops-rank-report.php:301
+msgid "Error fetching Google data. Trying another method - Hide My Ass."
+msgstr "Error al obtener datos de Google. Intentando con otro método - \"Hide My Ass\"."
+
+#: modules/rank-report/ops-rank-report.php:432
+msgid "There was no keyword in the HideMyAss fetched page. Trying another method: google ajax api for keyword: "
+msgstr "No había ninguna palabra clave en la página de \"Hide My Ass\". Tratando otro método: API de Google Ajax para la palabra clave:"
+
+#: modules/rank-report/ops-rank-report.php:442
+msgid "The HideMyAss first page does not redirect. Trying again with Google ajax api for keyword:"
+msgstr "La página de \"Hide My Ass\" no redirige. Tratando de nuevo con el API de Google Ajax para la palabra clave:"
+
+#: modules/rank-report/ops-rank-report.php:475
+msgid "We did not receive any data from the requested URL:"
+msgstr "No recibimos datos del URL solicitado:"
+
+#: modules/rank-report/ops-rank-report.php:530
+msgid "Settings validation error for field: language."
+msgstr "Error configuración para el campo: lenguaje."
+
+#: modules/rank-report/ops-rank-report.php:535
+msgid "Settings validation error for field: Google domain."
+msgstr "Error de configuración para el campo: Dominio de Google."
+
+#: modules/share-counter/ops-share-counter-ui.php:36
+msgid "Display data for posts from:"
+msgstr "Mostrar datos para publicaciones de:"
+
+#: modules/rank-report/ops-rank-report-ui.php:172
+msgid "Post ID"
+msgstr "ID de publicación"
+
+#: modules/rank-report/ops-rank-report-ui.php:176
+msgid "Edit post"
+msgstr "Editar publicación"
+
+#: modules/rank-report/ops-rank-report-ui.php:194
+#: modules/rank-report/ops-rank-report-ui.php:366
+msgid "We are sorry, you can only track one keyword in the free version."
+msgstr "Lo sentimos, Usted sólo puede seguir una palabra clave en la versión gratuita."
+
+#: modules/rank-report/ops-rank-report-ui.php:203
+msgid "Next update will be on"
+msgstr "La próxima actualización será el"
+
+#: modules/rank-report/ops-rank-report-ui.php:216
+msgid "Show keyword list"
+msgstr "Mostrar la lista de palabras clave"
+
+#: modules/rank-report/ops-rank-report-ui.php:257
+msgid "Based on your current positions, filled search volumes and"
+msgstr "Basado en las posiciones actuales, llenado volúmenes de búsqueda y"
+
+#: modules/rank-report/ops-rank-report-ui.php:259
+msgid "this resarch"
+msgstr "esta búsqueda"
+
+#: modules/rank-report/ops-rank-report-ui.php:370
+msgid "Add a new keyword"
+msgstr "Agregar una nueva palabra clave"
+
+#: modules/rank-report/ops-rank-report-ui.php:542
+msgid "positions were checked."
+msgstr "posiciones fueron revisadas."
+
+#: modules/rank-report/ops-rank-report.php:127
+msgid "A new keyword was added."
+msgstr "Una nueva palabra clave fue agregada."
+
+#: modules/rank-report/ops-rank-report.php:129
+msgid "Error adding new keyword."
+msgstr "Error al agregar la nueva palabra clave."
+
+#: modules/rank-report/ops-rank-report.php:147
+msgid "Ranking update started - good luck!"
+msgstr "La actualización ha comenzado - ¡Mucha suerte!"
+
+#: modules/rank-report/ops-rank-report.php:152
+#: modules/rank-report/ops-rank-report.php:213
+msgid "Ranking update ended after settings (Google domain, language) validation error."
+msgstr "La actualización se detuvo por un error de configuración (Dominio de Google, lenguaje)."
+
+#: modules/rank-report/ops-rank-report.php:198
+msgid "You do not have any active keywords, please add some."
+msgstr "Usted no tiene palabras clave activas, por favor agregue unas."
+
+#: modules/backlinks/ops-backlinks-ui.php:168
+#: modules/backlinks/ops-backlinks-ui.php:287
+#: modules/opportunities/ops-opportunity-comment.php:45
+#: modules/rank-report/ops-rank-report-ui.php:346
+#: modules/rank-report/ops-rank-report-ui.php:415
+#: modules/rank-report/ops-rank-report-ui.php:555
+msgid "Keyword"
+msgstr "Palabra clave"
+
+#: modules/backlinks/ops-backlinks-ui.php:171
+msgid "Don't assign to keyword"
+msgstr "No asignar a palabra clave"
+
+#: modules/backlinks/ops-backlinks-ui.php:180
+#: modules/backlinks/ops-backlinks-ui.php:301
+msgid "Contact"
+msgstr "Contacto"
+
+#: modules/backlinks/ops-backlinks-ui.php:291
+msgid "Not assigned"
+msgstr "Sin asignar"
+
+#: modules/backlinks/ops-backlinks-ui.php:304
+msgid "Start Date"
+msgstr "Fecha inicial"
+
+#: modules/core/ops-ads.php:37
+msgid "SEO services"
+msgstr "Servicios de SEO"
+
+#: modules/core/ops-ads.php:61
+msgid "We could not fetch SEO tips from our server."
+msgstr "No se pudieron obtener los tips de SEO desde el servidor."
+
+#: modules/core/ops-email.php:452
+msgid "settings"
+msgstr "configuración"
+
+#: modules/core/ops-opportunities.php:15 modules/core/ops.php:130
+msgid "Opportunities"
+msgstr "oportunidades"
+
+#: modules/core/ops-settings.php:49
+msgid "Settings were updated."
+msgstr "La configuración se ha actualizado."
+
+#: modules/core/ops-settings.php:68
+msgid "Forget authorization code."
+msgstr "Olvidar el código de autorización."
+
+#: modules/core/ops-email.php:82
+msgid "The following backlink was not found"
+msgstr "El siguiente backlink no se ha encontrado"
+
+#: modules/core/ops-email.php:89
+msgid "... on the website:"
+msgstr "... en la página:"
+
+#: modules/core/ops-email.php:412
+msgid "View dashboard"
+msgstr "Ver tablero"
+
+#: modules/core/ops-email.php:450
+msgid "If you don't want to receive this email, please change your "
+msgstr "Si no desea recibir este email, por favor cambie su"
+
+#: modules/core/ops-dashboard.php:35
+msgid "You don't have a module activated. Please go to settings and activate one."
+msgstr "No tiene un módulo activado. Por favor vaya a configuración para activarlo."
+
+#: modules/core/ops-dashboard.php:78
+msgid "To get the best use out of this plugin, please activate the Rank Report module in the settings. You can still use other functionalities separately."
+msgstr "Para usar de la mejor forma este plugin, por favor active el módulo de Reportes en configuración, Usted aún podrá usar las otras funciones por separado."
+
+#: modules/core/ops-email.php:157
+msgid "Off Page SEO Rank Report"
+msgstr "Reportes"
+
+#: modules/core/ops-email.php:400
+msgid "Off Page SEO Plugin"
+msgstr "Plugin"
+
+#: modules/core/ops-settings.php:103
+msgid "Force global reciprocal check."
+msgstr "Forzar cotejo global de backlinks."
+
+#: modules/core/ops-settings.php:121
+msgid "Inactive keywords were deleted."
+msgstr "Las palabras clave inactivas fueron borradas."
+
+#: modules/core/ops-settings.php:166
+msgid "Off Page SEO Settings"
+msgstr "Configuración"
+
+#: modules/core/ops-settings.php:179
+#: modules/rank-report/ops-rank-report-ui.php:37
+msgid "Rank Report"
+msgstr "Reporte"
+
+#: modules/core/ops-settings.php:180
+msgid "Check the position in Google every 3 days."
+msgstr "Revisar cada 3 días la posición en Google."
+
+#: modules/core/ops-settings.php:183 modules/core/ops-settings.php:200
+#: modules/core/ops-settings.php:216 modules/core/ops-settings.php:232
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: modules/core/ops-settings.php:183 modules/core/ops-settings.php:200
+#: modules/core/ops-settings.php:216 modules/core/ops-settings.php:232
+msgid "Activate"
+msgstr "Activar"
+
+#: modules/core/ops-settings.php:197
+msgid "Record acquired backlinks and control effect on your position."
+msgstr "Grabar nuevos backlinks y actualizar el efecto sobre su posición."
+
+#: modules/core/ops-settings.php:212 modules/core/ops-settings.php:536
+#: modules/google-api/ops-google-api-ui.php:241
+msgid "Google API"
+msgstr "API de Google."
+
+#: modules/core/ops-settings.php:213
+msgid "Get value data from Google Webmaster Tools."
+msgstr "Obtener los datos del valor desde las herramientas de Webmaster de Google."
+
+#: modules/core/ops-settings.php:228
+#: modules/share-counter/ops-share-counter-ui.php:21
+msgid "Share Counter"
+msgstr "Veces que se ha compartido"
+
+#: modules/core/ops-settings.php:229
+msgid "Check how many shares you have on various social websites."
+msgstr "Revisar cuantas veces se ha compartido en diferentes redes sociales."
+
+#: modules/core/ops-settings.php:86
+msgid "Force rank report control."
+msgstr "Forzar la actualización de reportes."
+
+#: modules/core/ops-settings.php:243
+msgid "Core Settings"
+msgstr "Configuración principal"
+
+#: modules/core/ops-settings.php:249
+msgid "Who can view this plugin's data?"
+msgstr "¿Quién puede ver los datos de este plugin?"
+
+#: modules/core/ops-settings.php:256
+msgid "Super administrator"
+msgstr "Súper Administrador"
+
+#: modules/core/ops-settings.php:260
+msgid "Administrator"
+msgstr "Administrador"
+
+#: modules/core/ops-settings.php:263
+msgid "Editor"
+msgstr "Editor"
+
+#: modules/core/ops-settings.php:269
+msgid "Contributor"
+msgstr "Colaborador"
+
+#: modules/core/ops-settings.php:272
+msgid "Subscriber"
+msgstr "Suscriptor"
+
+#: modules/core/ops-settings.php:280
+msgid "Select your language"
+msgstr "Seleccione su idioma"
+
+#: modules/core/ops-settings.php:295
+msgid "Select the Google domain"
+msgstr "Seleccione su dominio de Google"
+
+#: modules/core/ops-settings.php:310
+msgid "Notification email"
+msgstr "Notificación por email"
+
+#: modules/core/ops-settings.php:320
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#: modules/rank-report/ops-rank-report-ui.php:167
+#: modules/rank-report/ops-rank-report-ui.php:353
+#: modules/rank-report/ops-rank-report-ui.php:407
+#: modules/rank-report/ops-rank-report-ui.php:422
+msgid "Searches per month"
+msgstr "Búsquedas al mes"
+
+#: modules/rank-report/ops-rank-report.php:225
+msgid "Starting control - method: \"<b>%1$s</b>\", keyword: \"<b>%2$s</b>\"."
+msgstr "Iniciando actualización - método: \"<b>%1$s</b>\", palabra clave: \"<b>%2$s</b>\"."
+
+#: modules/google-api/ops-google-api-ui.php:782
+msgid "We've connected to Google API, but we got this error: "
+msgstr "Conectado con el API de Google, pero se obtuvo este error:"
+
+#: modules/google-api/ops-google-api-ui.php:788
+msgid "Google API data request returned zero results."
+msgstr "La solicitud al API de Google no tuvo resultados."
+
+#: modules/google-api/ops-google-api.php:51
+msgid "The access token appears to be in the wrong format."
+msgstr "Al parecer, el formato del token es incorrecto."
+
+#: modules/google-api/ops-google-api.php:78
+msgid "Tokens seem to have been refreshed, but it does not contain access token."
+msgstr "Al parecer el token se restableció, pero contiene información incorrecta."
+
+#: modules/google-api/ops-google-api.php:81
+msgid "Token was not refreshed successfully."
+msgstr "El token no se ha restablecido correctamente."
+
+#: modules/google-api/ops-google-api.php:84
+msgid "We could not connect to Google API: "
+msgstr "No se pudo establecer conexión con el API de Google:"
+
+#: modules/opportunities/ops-opportunity-buy.php:18
+msgid "Buy"
+msgstr "Comprar"
+
+#: modules/opportunities/ops-opportunity-comment.php:39
+msgid "Your language is not supported, please"
+msgstr "Su idioma no ha sido incluido en el plugin todavía, por favor"
+
+#: modules/opportunities/ops-opportunity-comment.php:40
+msgid "contact us"
+msgstr "contáctenos"
+
+#: modules/opportunities/ops-opportunity-comment.php:40
+msgid "to improve this plugin."
+msgstr "para hacerlo."
+
+#: modules/opportunities/ops-opportunity-comment.php:46
+msgid "Get ideas"
+msgstr "Obtener ideas"
+
+#: modules/opportunities/ops-opportunity-comment.php:50
+msgid "Please type in your keyword and generate ideas."
+msgstr "Por favor escriba su palabra clave para generar ideas."
+
+#: modules/opportunities/ops-opportunity-comment.php:83
+msgid "Browse"
+msgstr "Revisar"
+
+#: modules/rank-report/ops-rank-report-ui.php:56
+msgid "You don't have any keyword set up. Please edit any post or page and add it from there."
+msgstr "No hay palabras clave para las publicaciones. Por favor edite cualquier publicación o página para incluirlas desde ahí."
+
+#: modules/rank-report/ops-rank-report-ui.php:105
+#: modules/rank-report/ops-rank-report-ui.php:298
+msgid "per month"
+msgstr "por mes"
+
+#: modules/google-api/ops-google-api-ui.php:350
+#: modules/google-api/ops-google-api-ui.php:432
+#: modules/google-api/ops-google-api-ui.php:515
+#: modules/google-api/ops-google-api-ui.php:595
+msgid "month"
+msgstr "mes"
+
+#: modules/google-api/ops-google-api-ui.php:140
+#: modules/google-api/ops-google-api-ui.php:192
+#: modules/google-api/ops-google-api-ui.php:357
+#: modules/google-api/ops-google-api-ui.php:439
+#: modules/google-api/ops-google-api-ui.php:522
+#: modules/google-api/ops-google-api-ui.php:602
+#: modules/google-api/ops-google-api-ui.php:668
+msgid "Clicks"
+msgstr "Clicks"
+
+#: modules/google-api/ops-google-api-ui.php:359
+#: modules/google-api/ops-google-api-ui.php:441
+#: modules/google-api/ops-google-api-ui.php:524
+#: modules/google-api/ops-google-api-ui.php:604
+#: modules/google-api/ops-google-api-ui.php:708
+msgid "Impressions"
+msgstr "Impresiones"
+
+#: modules/google-api/ops-google-api-ui.php:360
+#: modules/google-api/ops-google-api-ui.php:442
+#: modules/google-api/ops-google-api-ui.php:525
+#: modules/google-api/ops-google-api-ui.php:605
+msgid "CTR"
+msgstr "CTR"
+
+#: modules/google-api/ops-google-api-ui.php:391
+#: modules/google-api/ops-google-api-ui.php:473
+#: modules/google-api/ops-google-api-ui.php:553
+#: modules/google-api/ops-google-api-ui.php:633
+msgid "If you can't see anything, you may not have any data in Webmaster Tools, or you may need to check the error"
+msgstr "Si no puede ver nada, es posible que no tenga datos en sus Herramientas de Webmaster de Google, o tal vez necesite revisar el error"
+
+#: modules/google-api/ops-google-api-ui.php:392
+#: modules/google-api/ops-google-api-ui.php:474
+#: modules/google-api/ops-google-api-ui.php:554
+#: modules/google-api/ops-google-api-ui.php:634
+msgid "error log"
+msgstr "registro de errores"
+
+#: modules/google-api/ops-google-api-ui.php:181
+#: modules/google-api/ops-google-api-ui.php:411
+msgid "Most successful pages"
+msgstr "Las páginas más exitosas"
+
+#: modules/google-api/ops-google-api-ui.php:493
+#: modules/google-api/ops-google-api-ui.php:510
+msgid "Which countries are your visitors from?"
+msgstr "¿De qué países son sus visitantes?"
+
+#: modules/google-api/ops-google-api-ui.php:573
+#: modules/google-api/ops-google-api-ui.php:590
+msgid "On what devices is your website displayed in Google search results?"
+msgstr "¿En qué dispositivos se visualiza su página en los resultados de las búsquedas de Google?"
+
+#: modules/google-api/ops-google-api-ui.php:671
+msgid "Number of times that users clicked on your website in search results compared to the previous period:"
+msgstr "Comparativo con el período previo del número de veces que los usuarios dan click en el link de su página en los resultados de búsqueda de Google:"
+
+#: modules/google-api/ops-google-api-ui.php:688
+msgid "Avg. position"
+msgstr "Posición promedio"
+
+#: modules/google-api/ops-google-api-ui.php:691
+msgid "What is the average ranking of the keyword compared to the previous period:"
+msgstr "¿Cuál es el ranking promedio de la palabra clave comparado con el período previo?"
+
+#: modules/google-api/ops-google-api-ui.php:711
+msgid "Number of times this keyword was viewed in search results compared to the previous period:"
+msgstr "Número de veces que esta palabra clave fue vista en los resultados de búsqueda comparado con el período previo:"
+
+#: modules/google-api/ops-google-api-ui.php:767
+msgid "We could not connect to Google API, following error was returned: "
+msgstr "No se pudo conectar con el API de Google y se recibió el siguiente error:"
+
+#: modules/core/ops-settings.php:642
+msgid "Action"
+msgstr "Acción"
+
+#: modules/google-api/ops-google-api-ui.php:36
+msgid "You have not set up the authorization code."
+msgstr "Usted no ha configurado el código de autorización."
+
+#: modules/google-api/ops-google-api-ui.php:97
+msgid "Organic Traffic"
+msgstr "Tráfico Natural u Orgánico"
+
+#: modules/google-api/ops-google-api-ui.php:100
+msgid "All data are generated from 50 most successful keywords and are delayed a week. Selected period: "
+msgstr "Los datos generados son de las 50 palabras más exitosas con un retraso de una semana. Período seleccionado:"
+
+#: modules/google-api/ops-google-api-ui.php:108
+msgid "Total Organic Visitors"
+msgstr "Total de Visitantes Naturales u Orgánicos"
+
+#: modules/google-api/ops-google-api-ui.php:119
+msgid "Total Impressions"
+msgstr "Total de Impresiones"
+
+#: modules/google-api/ops-google-api-ui.php:248
+#: modules/google-api/ops-google-api-ui.php:327
+#: modules/google-api/ops-google-api-ui.php:345
+msgid "Keywords"
+msgstr "Palabras Clave"
+
+#: modules/google-api/ops-google-api-ui.php:258
+msgid "Country"
+msgstr "País"
+
+#: modules/google-api/ops-google-api-ui.php:293
+msgid "Please set up Google account in the Settings."
+msgstr "Por favor, ingrese su cuenta de Google en configuración."
+
+#: modules/google-api/ops-google-api-ui.php:314
+msgid "Please select item from the dropdown menu."
+msgstr "Por favor, seleccione una opción del menú."
+
+#: modules/google-api/ops-google-api-ui.php:348
+#: modules/google-api/ops-google-api-ui.php:430
+#: modules/google-api/ops-google-api-ui.php:513
+#: modules/google-api/ops-google-api-ui.php:593
+msgid "Display data for last"
+msgstr "Mostrar los datos del período anterior por"
+
+#: modules/google-api/ops-google-api-ui.php:349
+#: modules/google-api/ops-google-api-ui.php:431
+#: modules/google-api/ops-google-api-ui.php:514
+#: modules/google-api/ops-google-api-ui.php:594
+msgid "week"
+msgstr "semana"
+
+#: modules/core/ops-settings.php:570 modules/core/ops-settings.php:597
+msgid "1 month"
+msgstr "1 mes"
+
+#: modules/core/ops-settings.php:571
+#: modules/google-api/ops-google-api-ui.php:351
+#: modules/google-api/ops-google-api-ui.php:433
+#: modules/google-api/ops-google-api-ui.php:516
+#: modules/google-api/ops-google-api-ui.php:596
+msgid "3 months"
+msgstr "3 meses"
+
+#: modules/core/ops-settings.php:580
+msgid "Share Counter Settings"
+msgstr "Configuración del registro de publicaciones compartidas"
+
+#: modules/core/ops-settings.php:586
+msgid "Check shares every"
+msgstr "Actualizar el registro de publicaciones compartidas cada"
+
+#: modules/core/ops-settings.php:591
+msgid "1 day"
+msgstr "1 día"
+
+#: modules/core/ops-settings.php:592
+msgid "2 days"
+msgstr "2 días"
+
+#: modules/core/ops-settings.php:593
+msgid "3 days"
+msgstr "3 días"
+
+#: modules/core/ops-settings.php:594
+msgid "5 days"
+msgstr "5 días"
+
+#: modules/core/ops-settings.php:595
+msgid "7 days"
+msgstr "7 días"
+
+#: modules/core/ops-settings.php:596
+msgid "14 days"
+msgstr "14 días"
+
+#: modules/core/ops-settings.php:600
+msgid "The more content you have, the longer the period should be as this can be expensive on web hosting. The posts are checked individually once the user reads them."
+msgstr "Mientras más contenido tenga su página, deberá escoger períodos más largos de tiempo ya que se podría sobrecargar el servidor. Las publicaciones son registradas individualmente cada vez que un usuario las lee."
+
+#: modules/core/ops-settings.php:641
+msgid "Time"
+msgstr "Hora"
+
+#: modules/google-api/ops-google-api-ui.php:263
+msgid "Device"
+msgstr "Dispositivo"
+
+#: modules/core/ops-settings.php:352
+msgid "By selecting post type, you will be able to track shares and keywords."
+msgstr "Al seleccionar el tipo de publicación, podrá rastrear las palabras clave y las veces que es compartida."
+
+#: modules/core/ops-settings.php:355
+msgid "All post types"
+msgstr "Todos los tipos de publicación"
+
+#: modules/core/ops-settings.php:371
+msgid "Selected post types"
+msgstr "Tipos de publicación seleccionados"
+
+#: modules/core/ops-settings.php:386
+#: modules/rank-report/ops-rank-report-ui.php:219
+msgid "Show log"
+msgstr "Mostrar registro"
+
+#: modules/core/ops-settings.php:393
+msgid "curl version"
+msgstr "Versión CURL"
+
+#: modules/core/ops-settings.php:401
+msgid "ERROR: you don't have CURL enabled, most of the features for this plugin will not work."
+msgstr "ERROR: CURL NO ESTÁ HABILITADO. La mayoría de las funciones de este plugin no funcionarán."
+
+#: modules/core/ops-settings.php:402
+msgid "You don't have the CURL functionality active on your server. Most of this plugin's features will not work."
+msgstr "No se ha habilitado el CURL en su servidor. La mayoría de las funciones de este plugin no funcionarán."
+
+#: modules/core/ops-settings.php:410
+msgid "max_ecec_time"
+msgstr "max_ecec_time"
+
+#: modules/core/ops-settings.php:415
+msgid "(how long a script can run on the server before it stops. To determine how long a ranking update lasts, check the log and compare the first and last keyword checked)"
+msgstr "(tiempo en que un script puede ejecutarse en el servidor antes de que se detenga. Para determinar cuánto tiempo dura una actualización de ranking, compare la primera y la última palabra clave en el registro)"
+
+#: modules/core/ops-settings.php:423
+msgid "Rank Report Settings"
+msgstr "Configuración del Reporte"
+
+#: modules/core/ops-settings.php:439
+msgid "Send email with rank report"
+msgstr "Mandar un email con el reporte"
+
+#: modules/core/ops-settings.php:448
+#: modules/google-api/ops-google-api-ui.php:89
+#: modules/google-api/ops-google-api-ui.php:298
+#: modules/google-api/ops-google-api-ui.php:330
+#: modules/google-api/ops-google-api-ui.php:414
+#: modules/google-api/ops-google-api-ui.php:496
+#: modules/google-api/ops-google-api-ui.php:576
+msgid "We are sorry, this feature is available in premium version only."
+msgstr "Disculpe, esta función sólo está disponible en la versión premium."
+
+#: modules/core/ops-settings.php:449
+#: modules/google-api/ops-google-api-ui.php:90
+#: modules/google-api/ops-google-api-ui.php:299
+#: modules/google-api/ops-google-api-ui.php:331
+#: modules/google-api/ops-google-api-ui.php:415
+#: modules/google-api/ops-google-api-ui.php:497
+#: modules/google-api/ops-google-api-ui.php:577
+#: modules/rank-report/ops-rank-report-ui.php:195
+#: modules/rank-report/ops-rank-report-ui.php:367
+msgid "Upgrade."
+msgstr "Cambiar a Premium."
+
+#: modules/core/ops-settings.php:465
+msgid "Delete inactive keywords"
+msgstr "Borrar palabras clave inactivas"
+
+#: modules/core/ops-settings.php:469
+msgid "Delete now"
+msgstr "Borrar ahora"
+
+#. #-#-#-#-#  tmp-off-page-seo.pot (Off Page SEO 2.2.1.)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: modules/core/ops-dashboard.php:29 modules/core/ops.php:183
+msgid "Off Page SEO"
+msgstr "SEO Externo"
+
+#: modules/core/ops-settings.php:351
+msgid "Use this plugin on the following post types:"
+msgstr "Usar este plugin en publicaciones de los siguientes tipos:"
+
+#: modules/core/ops-settings.php:471
+msgid "When you delete keyword, it stays in the database as 'inactive', so you dont lose any data. By clicking this button, you will delete these inactive keywords."
+msgstr "Cuando borra una palabra clave, se mantiene como 'inactiva' en la base de datos para que no se pierda ningún dato. Al usar este botón, Usted borrará estas palabras clave inactivas."
+
+#: modules/core/ops-settings.php:477
+msgid "Perform ranking test now"
+msgstr "Realizar una prueba de ranking ahora"
+
+#: modules/core/ops-settings.php:481 modules/core/ops-settings.php:524
+msgid "Schedule in 10s"
+msgstr "Programado en 10s"
+
+#: modules/core/ops-settings.php:483
+msgid "CRON will be set to perform ranking test in 10 seconds."
+msgstr "El CRON será programado para realizar la prueba de ranking en 10 segundos"
+
+#: modules/core/ops-settings.php:492
+msgid "Backlinks Settings"
+msgstr "Configuración de Backlinks"
+
+#: modules/core/ops-settings.php:497
+msgid "Run reciprocal check"
+msgstr "Realizar un cotejo de backlinks"
+
+#: modules/core/ops-settings.php:508
+msgid "Nofity me if the backlink is not found"
+msgstr "Notificarme si el backlink no es encontrado"
+
+#: modules/core/ops-settings.php:514
+msgid "We will send you an email if the backlink is not found on the control website and it was present last time."
+msgstr "Recibirá un email notificándole si un backlink que se había detectado previamente en una página externa ahora ya no esta presente."
+
+#: modules/core/ops-settings.php:520
+msgid "Run reciprocal check now"
+msgstr "Realizar un cotejo de backlinks ahora"
+
+#: modules/core/ops-settings.php:526
+msgid "This will trigger backlink control. The reciprocal check is split in to batches of 5 controls per script trigger, so it can take a while to check all backlinks."
+msgstr "Esto iniciará el cotejo de backlinks. La revisión se divide en lotes de 5 a la vez, por lo que su cotejo tardará dependiendo de la cantidad de backlinks a procesar."
+
+#: modules/core/ops-settings.php:541
+msgid "Authorization code"
+msgstr "Código de autorización"
+
+#: modules/core/ops-settings.php:552
+msgid "You need to authorize this plugin to get your Google Webmaster Tools data."
+msgstr "Usted necesita autorizar que este plugin reciba los datos de las Herramientas para Webmasters de Google."
+
+#: modules/core/ops-settings.php:554
+msgid "Get authorization code."
+msgstr "Obtener el código de autorización."
+
+#: modules/core/ops-settings.php:564
+msgid "Compare period"
+msgstr "Comparas periodo"
+
+#: modules/core/ops-settings.php:569
+msgid "1 week"
+msgstr "1 semana"
+
+#: modules/core/ops-settings.php:634
+msgid "Off Page SEO Log"
+msgstr "Registro de SEO externo"
+
+#: modules/core/ops-settings.php:636
+msgid "If you find any bug or if you have any idea how to improve this plugin, feel free to let us know at info@offpageseoplugin.com."
+msgstr "Si encuentra algún error en el programa o en las traducciones de este pugin, o si tiene alguna idea de como mejorarlo, por favor contáctenos aquí: info@offpageseoplugin.com."

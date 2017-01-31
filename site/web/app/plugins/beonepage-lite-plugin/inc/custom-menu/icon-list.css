@@ -1,0 +1,41 @@
+/**
+ * Menu Icons List
+ */
+
+.menu-icon-search {
+	margin: 10px 0 0 15px;
+}
+
+.menu-icon-search span{
+	font-style: italic;
+}
+
+ul.font-icons {
+	list-style: none;
+	display: table;
+	margin: 0 0 0 4px;
+}
+
+ul.font-icons li {
+	display: inline-block;
+	margin: 10px 7px;
+}
+
+ul.font-icons li i {
+	position: relative;
+	padding: 5px;
+	width: 24px;
+	height: 24px;
+	text-align: center;
+	font-size: 20px;
+	line-height: 24px;
+}
+
+ul.font-icons li i:hover {
+	cursor: pointer;
+	background-color: #f3f3f3;
+}
+
+ul.font-icons li i.active {
+	background-color: #ddd;
+}
