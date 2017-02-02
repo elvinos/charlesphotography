@@ -9,16 +9,16 @@ users:
     keys:
       - "{{ lookup('file', '~/.ssh/id_rsa.pub') }}"
       - https://github.com/elvinos.keys
-      - https://github.com/swalkinshaw.keys
-      - https://github.com/retlehs.keys
+      # - https://github.com/swalkinshaw.keys
+      # - https://github.com/retlehs.keys
   - name: "{{ admin_user }}"
     groups:
       - sudo
     keys:
       - "{{ lookup('file', '~/.ssh/id_rsa.pub') }}"
       - https://github.com/elvinos.keys
-      - https://github.com/swalkinshaw.keys
-      - https://github.com/retlehs.keys
+      # - https://github.com/swalkinshaw.keys
+      # - https://github.com/retlehs.keys
 
 web_user: web
 web_group: www-data
