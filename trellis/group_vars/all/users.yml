@@ -8,7 +8,7 @@ users:
       - "{{ web_group }}"
     keys:
       - "{{ lookup('file', '~/.ssh/id_rsa.pub') }}"
-      # - https://github.com/username.keys
+      - https://github.com/elvinos.keys
       - https://github.com/swalkinshaw.keys
       - https://github.com/retlehs.keys
   - name: "{{ admin_user }}"
@@ -16,7 +16,7 @@ users:
       - sudo
     keys:
       - "{{ lookup('file', '~/.ssh/id_rsa.pub') }}"
-      # - https://github.com/username.keys
+      - https://github.com/elvinos.keys
       - https://github.com/swalkinshaw.keys
       - https://github.com/retlehs.keys
 
