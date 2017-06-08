@@ -9,7 +9,7 @@ $link = get_category_link($category_id);
 
 // echo $queried_category->term_id; // The category ID
 // echo $queried_category->slug; // The category slug
-echo $link;
+// echo $link;
 // echo $queried_category->name;
 // echo $category_id; // The category name
 // echo $queried_category->description; // The category description
