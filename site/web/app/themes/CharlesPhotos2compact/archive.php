@@ -7,6 +7,26 @@
   <?php get_search_form(); ?>
 <?php endif; ?>
 
+<?php
+$category_id = get_the_category();
+$category_link = get_category_link($category_id[0]->cat_ID);
+
+$cats = array();
+foreach (get_the_category($post_id) as $c) {
+$cat = get_category($c);
+array_push($cats, $cat->name);
+}
+
+if (sizeOf($cats) > 0) {
+$post_categories = implode(', ', $cats);
+} else {
+$post_categories = 'Not Assigned';
+}
+
+echo $post_categories;
+
+?>
+
 <div id="wrapper">
 
        <!-- Sidebar -->
