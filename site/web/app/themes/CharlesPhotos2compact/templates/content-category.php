@@ -1,5 +1,4 @@
 <div id="wrapper">
-
        <!-- Sidebar -->
        <div id="sidebar-wrapper">
          <h1 class="featurette-heading"><?php wp_title(''); ?> </h1>
@@ -22,7 +21,7 @@
                       </icon>
                       <ripples></ripples>
                     </m-button>
-                   </div>
+                </div>
                      <ul id="categories" class="clr">
 
                     <?php

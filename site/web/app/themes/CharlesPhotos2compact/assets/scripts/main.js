@@ -91,9 +91,9 @@ forEach.call(mButtons, function(el, i) {
         // }, 1500);
         $(window).load(function() {
 		// Animate loader off screen
-    $('body').addClass('loaded');
-    $('h1').css('color', '#222222');
-	});
+          $('body').addClass('loaded');
+          $('h1').css('color', '#222222');
+      	});
 
         var $menu = $('.overlay');
         var hexNav = document.getElementById('hexNav');
