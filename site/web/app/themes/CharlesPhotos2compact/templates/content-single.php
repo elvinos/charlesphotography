@@ -22,14 +22,15 @@ $category_link = get_category_link($catID);
 
     <div class="container-fluid" id="centrebuttons">
       <!-- <a class="toggle-nav btn btn-default" id="single-toggle" ><i class="glyphicon glyphicon-info-sign"></i> </a> -->
-      <m-button href="<?php echo esc_url($category_link) ?>" id="single-toggle" shape="round" ripple role="primary" size="big" icon="menu" class="selected">
+      <a href="<?php echo esc_url($category_link) ?>">
+        <m-button  shape="round" role="primary" size="big" icon="menu" class="selected">
          <icon>
            <line></line>
            <line></line>
            <line></line>
          </icon>
-         <ripples></ripples>
        </m-button>
+     </a>
         </div>
 
 
