@@ -19,7 +19,7 @@ body {
 
 h1 {
 	//font-family:'Lato', sans-serif;
-	font-size: 2rem;
+	font-size: 3rem;
 	display: inline-block;
 	padding: 1rem;
 	font-weight: 400;
@@ -62,16 +62,36 @@ h1:after {
 	width: 0;
 }
 
-span{
+span {
   display: inline-block;
-  position: absolute;
-  font-size: 1.1rem;
-  bottom:35%;
+  position: relative;
+  font-size: 1.5rem;
+  width: 100%;
   transform: scale(1);
   transition: transform 1s ease, opacity 1s ease;
   transition-delay: 1.5s;
 }
 .is-loading span {
 	transform: scale(0.9);
+	opacity: 0;
+}
+.row{
+  padding: 0px 0px 20px 0;
+}
+
+#hammer{
+  background-image: url(../images/hammer.svg);
+  height: 60px;
+  width: 63.5px;
+  fill: white;
+  background-size:contain ;
+  background-repeat: no-repeat;
+  background-position: center, center;
+  margin: auto;
+  transition: opacity 1s ease;
+  transition-delay: 2s;
+}
+
+.is-loading #hammer {
 	opacity: 0;
 }
