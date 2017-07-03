@@ -11,10 +11,23 @@ wordpress_sites:
     repo_subtree_path: site # relative path to your Bedrock/WP directory in your repo
     branch: master
     multisite:
-      enabled: false
+      enabled: true
     ssl:
       enabled: true
       provider: letsencrypt
     cache:
       enabled: true
-      
+  charlesphotodigital.co.uk:
+    site_hosts:
+      - canonical: charlesphotodigital.co.uk
+    local_path: ../site2 # path targeting local Bedrock site directory (relative to Ansible root)
+    repo: git@github.com:elvinos/charlesphotography.git # replace with your Git repo URL
+    repo_subtree_path: site # relative path to your Bedrock/WP directory in your repo
+    branch: master
+    multisite:
+      enabled: true
+    ssl:
+      enabled: true
+      provider: letsencrypt
+    cache:
+      enabled: true
