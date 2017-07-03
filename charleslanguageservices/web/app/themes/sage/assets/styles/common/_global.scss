@@ -95,3 +95,75 @@ span {
 .is-loading #hammer {
 	opacity: 0;
 }
+
+#hammerrow{
+  height:100px;
+}
+#but{
+  // top: 30px;
+}
+  #but2{
+  transition: opacity 1s ease;
+  transition-delay: 3s;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.is-loading #but2 {
+	opacity: 0;
+}
+
+
+$footer-button-color: transparent;
+
+$footer-button-font: white;
+$footer-font-color: white;
+
+.buttonFoot {
+  background   : $footer-button-color;
+  color        : $footer-button-font;
+  border       : none;
+  border-radius: 8px;
+  position     : relative;
+  height       : 35px;
+  font-size    : 1.2em;
+  font-weight  : 300;
+  padding      : 0 0.7em;
+  cursor       : pointer;
+  transition   : 800ms ease all;
+  outline      : none;
+  margin       : 2px 0;
+}
+
+.buttonFoot:hover {
+  background: $footer-button-color;
+  color     : $footer-button-font;
+}
+
+.buttonFoot:before,
+.buttonFoot:after {
+  content      : '';
+  position     : absolute;
+  border-radius: 2px;
+  top          : 0;
+  right        : 0;
+  height       : 1px;
+  width        : 100%;
+  background   : $footer-font-color;
+  transition   : 400ms ease all;
+}
+
+.buttonFoot:after {
+  right : inherit;
+  top   : inherit;
+  left  : 0;
+  bottom: 0;
+}
+
+.buttonFoot:hover:before,
+.buttonFoot:hover:after {
+  width     : 0;
+  transition: 800ms ease all;
+}
