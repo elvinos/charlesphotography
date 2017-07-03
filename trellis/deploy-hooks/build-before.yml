@@ -4,28 +4,28 @@
 # Uncomment the lines below and replace `sage` with your theme folder
 #
 # ---
-# - name: Run npm install
-#   command: npm install
-#   connection: local
-#   args:
-#     chdir: "{{ project.local_path }}/web/app/themes/CharlesPhotos2compact"
-#
-# - name: Run bower install
-#   command: bower install
-#   connection: local
-#   args:
-#     chdir: "{{ project.local_path }}/web/app/themes/CharlesPhotos2compact"
-#
-# - name: Run gulp
-#   command: gulp --production
-#   connection: local
-#   args:
-#     chdir: "{{ project.local_path }}/web/app/themes/CharlesPhotos2compact"
-#
-# - name: Copy project local files
-#   synchronize:
-#     src: "{{ project.local_path }}/web/app/themes/CharlesPhotos2compact/dist"
-#     dest: "{{ deploy_helper.new_release_path }}/web/app/themes/CharlesPhotos2compact"
-#     group: no
-#     owner: no
-#     rsync_opts: --chmod=Du=rwx,--chmod=Dg=rx,--chmod=Do=rx,--chmod=Fu=rw,--chmod=Fg=r,--chmod=Fo=r
+- name: Run npm install
+  command: npm install
+  connection: local
+  args:
+    chdir: "{{ project.local_path }}/web/app/themes/{{ project.theme }}"
+
+- name: Run bower install
+  command: bower install
+  connection: local
+  args:
+    chdir: "{{ project.local_path }}/web/app/themes/{{ project.theme }}"
+
+- name: Run gulp
+  command: gulp --production
+  connection: local
+  args:
+    chdir: "{{ project.local_path }}/web/app/themes/{{ project.theme }}"
+
+- name: Copy project local files
+  synchronize:
+    src: "{{ project.local_path }}/web/app/themes/{{ project.theme }}/dist"
+    dest: "{{ deploy_helper.new_release_path }}/web/app/themes/{{ project.theme }}"
+    group: no
+    owner: no
+    rsync_opts: --chmod=Du=rwx,--chmod=Dg=rx,--chmod=Do=rx,--chmod=Fu=rw,--chmod=Fg=r,--chmod=Fo=r
