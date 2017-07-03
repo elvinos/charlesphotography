@@ -28,3 +28,15 @@ wordpress_sites:
       provider: self-signed
     cache:
       enabled: false
+  charleslanguageservices.com:
+    site_hosts:
+      - canonical: charleslanguageservices.dev
+    local_path: ../charleslanguageservices # path targeting local Bedrock site directory (relative to Ansible root)
+    admin_email: admin@charleslanguageservices.dev
+    multisite:
+      enabled: false
+    ssl:
+      enabled: false
+      provider: self-signed
+    cache:
+      enabled: false
