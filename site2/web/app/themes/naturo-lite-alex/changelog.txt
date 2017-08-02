@@ -1,0 +1,42 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Changes as per reviewer
+
+Version 1.2
+i) Changes as per reviewer
+
+Version 1.3
+i)   Solved prefix and text domain matching issue.
+ii)  Solved text string wrapped translation issue.
+iii) Solved 404 Page Issue.
+iv)  Solved dummy content showing problem.
+v)   Rephrase credit and copyright text.
+
+Version 1.4
+i)   Solved Translation problems as reported by reviewer.
+ii)  Solved Sanitization problems as reported by reviewer.
+i)   Solved Data Validation problems as reported by reviewer.
+
+Version 1.5
+i)   Solved Sanitization problems as reported by reviewer.
+
+Version 1.6
+i)   Add check-box for hide dummy box content.
+ii)  Solved sanitization problems as reported by reviewer.
+
+Version 1.7
+i)   Update readme and documentation.
+ii)  Solved sanitization problems as reported by reviewer.
+
+Version 1.8
+i)   Update readme and documentation.
+ii)  Solved issue of footer post content as reported by reviewer.
+
+Version 1.9
+i)   Solved issue of the "Recent posts" widget in the footer.
+ii)  Solved readme.txt grammatical issue. 
+
+Version 2.0
+i)   Image Dimenssions and Featured image setup explained within customizer.
