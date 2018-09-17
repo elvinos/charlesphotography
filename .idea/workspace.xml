@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fda8672-2d2d-4305-b30c-c46c1f45ccba" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/trellis/group_vars/all/vault.yml" beforeDir="false" afterPath="$PROJECT_DIR$/trellis/group_vars/all/vault.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trellis/group_vars/development/vault.yml" beforeDir="false" afterPath="$PROJECT_DIR$/trellis/group_vars/development/vault.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trellis/group_vars/production/vault.yml" beforeDir="false" afterPath="$PROJECT_DIR$/trellis/group_vars/production/vault.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trellis/group_vars/staging/vault.yml" beforeDir="false" afterPath="$PROJECT_DIR$/trellis/group_vars/staging/vault.yml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/site/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="wordpress_sites.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/wordpress_sites.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vault.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/vault.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vault.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trellis/group_vars/development/vault.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/main.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="production" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trellis/hosts/production">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="development" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trellis/hosts/development">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="wordpress_sites.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trellis/group_vars/development/wordpress_sites.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="28" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/composer.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ansible.cfg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trellis/ansible.cfg">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/bower_components/tether/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/@gulp-sourcemaps/map-sources/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/accord/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/accord/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/accord/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/alphanum-sort/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/archive-type/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/archive-type/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/archy/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/array-differ/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/array-each/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/array-slice/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/asset-builder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/async-each-series/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/async-foreach/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/beeper/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bin-build/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bin-check/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bin-version-check/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bin-version-check/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bin-version/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bin-wrapper/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bower-config/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/browser-sync-client/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/browser-sync-ui/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/browser-sync/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/grunt.html.injection/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/grunt.sass.autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/grunt.sass/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/gulp.browserify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/gulp.pug/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/gulp.ruby.sass/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/gulp.sass/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/gulp.swig/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/gulp.task.sequence/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/html.injection/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/middleware.css.injection/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/proxy.custom-css/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/server.gzipped.assets/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/server.includes/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/server.middleware/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/server/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/webpack.babel/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/webpack.monkey-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/webpack.preact-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/webpack.react-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/webpack.react-transform-hmr/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/webpack.typescript.react/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/bs-recipes/recipes/webpack.typescript/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/buffer-crc32/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/buffer-to-vinyl/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/buffer-to-vinyl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/camelcase-keys/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/caniuse-api/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/capture-stack-trace/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/caw/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/chokidar/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/chokidar/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/chokidar/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/clap/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cli/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cli/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cli/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/clone-buffer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/clone-stats/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cloneable-readable/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/coa/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/color-string/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/color/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/colormin/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/concat-with-sourcemaps/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/connect/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/console-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/create-error-class/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cross-spawn/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/css-color-names/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/css/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cssnano/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/cssnano/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/csso/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/dashdash/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/date-now/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/dateformat/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/debug-fabulous/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/debug-fabulous/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tar/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tar/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tar/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tar/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tar/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tar/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tar/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tar/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tarbz2/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tarbz2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tarbz2/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tarbz2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tarbz2/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tarbz2/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tarbz2/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-tarbz2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-targz/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-targz/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-targz/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-targz/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-targz/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-targz/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-targz/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-targz/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress-unzip/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/decompress/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/defaults/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/defined/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/del/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/del/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/del/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/del/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/deprecated/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/detect-file/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/detect-newline/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/dev-ip/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/dom-serializer/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/download/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/download/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/duplexer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/duplexer2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/duplexer2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/duplexer2/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/duplexer2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/each-async/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/easy-extender/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/eazy-logger/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/emitter-steward/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/end-of-stream/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/engine.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/engine.io-client/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/engine.io-parser/node_modules/has-binary/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/engine.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/engine.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/engine.io/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/exec-buffer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/exec-series/node_modules/async-each-series/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/exec-series/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/exec-series/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/executable/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/exit/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/expand-range/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/expand-tilde/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/express/node_modules/connect/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/express/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/extglob/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fancy-log/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fd-slicer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/figures/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/figures/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/filename-regex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/filename-reserved-regex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/filenamify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/find-index/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/find-up/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/find-versions/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/findup-sync/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/findup-sync/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/findup-sync/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fined/node_modules/expand-tilde/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fined/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/first-chunk-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/flagged-respawn/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/flatten/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fork-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/formidable/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fs-exists-sync/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/buffer-shims/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/dashdash/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/fstream-ignore/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/getpass/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/jodid25519/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/jsprim/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/sshpk/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/tar-pack/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/uid-number/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fsevents/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gauge/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gaze/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/generate-function/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/generate-object-property/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/get-proxy/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/get-stream/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/getpass/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gifsicle/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-base/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-base/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-base/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-base/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-stream/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-stream/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob-watcher/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glob2base/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/global-modules/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/global-prefix/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/globule/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/globule/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/globule/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/globule/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/globule/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/globule/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/glogg/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/got/node_modules/duplexer2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/got/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/got/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-changed/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-concat/node_modules/clone-stats/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-concat/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-concat/node_modules/replace-ext/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-concat/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-concat/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-cssnano/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-cssnano/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-decompress/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-flatten/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-if/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-imagemin/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-jshint/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-jshint/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-jshint/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-less/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-less/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-match/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-match/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-plumber/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-rename/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-rev/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-rev/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-sass/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-sourcemaps/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-uglify/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-uglify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-util/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp-util/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/glob-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/ordered-read-streams/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/unique-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/vinyl-fs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/gulplog/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/has-binary/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/has-binary/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/has-gulplog/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/homedir-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/html-comment-regex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/htmlparser2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/htmlparser2/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/image-size/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin-gifsicle/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin-jpegtran/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin-optipng/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin-pngcrush/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin-svgo/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin/node_modules/replace-ext/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/imagemin/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/immutable/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/in-publish/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/in-publish/test/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/indexes-of/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/indx/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/interpret/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ip-regex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/irregular-plurals/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-absolute-url/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-bzip2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-dotfile/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-equal-shallow/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-gif/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-gzip/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-jpg/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-my-json-valid/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-natural-number/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-number-like/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-obj/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-path-cwd/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-path-in-cwd/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-plain-obj/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-plain-object/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-png/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-posix-bracket/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-primitive/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-property/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-redirect/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-relative/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-retry-allowed/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-svg/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-tar/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-unc-path/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-url/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-valid-glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/is-zip/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jpegtran-bin/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jshint-stylish/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jshint/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jshint/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jshint/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jsonpointer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jsprim/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lazy-debug-legacy/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lazy-req/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lazypipe/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lazystream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/less/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/less/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/liftoff/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/liftoff/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/limiter/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/localtunnel/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/localtunnel/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash._basecopy/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash._basetostring/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash._basevalues/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash._isiterateecall/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash._reescape/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash._reevaluate/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash._reinterpolate/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash._root/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.clone/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.clonedeep/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.defaults/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.escape/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.flatten/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.isarguments/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.isequal/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.isfinite/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.isobject/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.isplainobject/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.isstring/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.keys/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.mapvalues/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.memoize/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.merge/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.partialright/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.pick/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.restparam/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.template/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.templatesettings/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash.uniq/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/log-symbols/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/logalot/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lowercase-keys/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lpad-align/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/macaddress/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/main-bower-files/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/main-bower-files/test/fixtures/hasPackageNoBower/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/make-error-cause/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/make-error/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/math-expression-evaluator/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/meow/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/merge-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/micromatch/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/micromatch/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/modify-filename/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/mout/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/multimatch/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/multimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/multipipe/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/natives/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-gyp/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-gyp/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-gyp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-sass/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-sass/node_modules/gaze/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-sass/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-sass/node_modules/globule/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-sass/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-sass/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-sass/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-sass/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-status-codes/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/node-uuid/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/normalize-range/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/normalize-url/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/num2fraction/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/object-path/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/object.defaults/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/object.defaults/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/object.defaults/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/onetime/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/openurl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/opn/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/optimist/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/options/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/optipng-bin/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/orchestrator/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/orchestrator/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/orchestrator/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ordered-read-streams/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/os-filter-obj/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/p-pipe/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/parse-filepath/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/parse-glob/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/parse-glob/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/parse-glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/parse-passwd/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/parsejson/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/path-root-regex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/path-root/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/pend/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/plur/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/pngcrush-bin/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/portscanner/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-calc/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-colormin/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-convert-values/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-discard-comments/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-discard-duplicates/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-discard-empty/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-discard-overridden/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-discard-unused/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-filter-plugins/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-merge-idents/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-merge-longhand/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-merge-rules/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-message-helpers/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-minify-font-values/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-minify-font-values/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-minify-gradients/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-minify-params/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-minify-selectors/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-normalize-charset/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-ordered-values/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-reduce-idents/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-reduce-initial/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-reduce-transforms/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-selector-parser/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-svgo/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-unique-selectors/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-value-parser/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss-zindex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/preserve/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/pretty-bytes/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/pretty-hrtime/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/propprop/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/query-string/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/randomatic/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/randomatic/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/randomatic/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/randomatic/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rc/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rcfinder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rcloader/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/read-all-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/readdirp/examples/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/readdirp/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rechoir/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/redent/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/reduce-css-calc/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/reduce-css-calc/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/reduce-function-call/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/reduce-function-call/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/regex-cache/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/replace-ext/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/request/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/request/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/resolve-dir/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/resp-modifier/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/resp-modifier/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rev-hash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rev-path/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rimraf/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rimraf/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/run-sequence/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/rx/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sass-graph/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sass-graph/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sass-graph/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sass-graph/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sass-graph/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sass-graph/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sass-graph/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/scss-tokenizer/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/scss-tokenizer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/seek-bzip/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/seek-bzip/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/semver-regex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/semver-truncate/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/send/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sequencify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/server-destroy/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/set-immediate-shim/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/shelljs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sigmund/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io-adapter/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io-adapter/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io-client/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/socket.io/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sort-keys/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sparkles/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/squeak/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sshpk/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/stat-mode/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/stream-combiner/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/stream-combiner2/node_modules/duplexer2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/stream-combiner2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/stream-consume/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/stream-shift/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/stream-throttle/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/string-length/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strip-bom-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strip-dirs/node_modules/is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strip-dirs/node_modules/is-relative/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strip-dirs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/strip-outer/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/sum-up/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/svgo/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/tar-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/tempfile/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ternary-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/text-table/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/tfunk/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/through2-concurrent/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/through2-filter/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/tildify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/time-stamp/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/timed-out/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/to-absolute-glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/traverse/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/trim-repeated/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uglify-js/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uglify-js/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uglify-js/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uglify-save-license/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/unc-path-regex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/underscore/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uniq/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uniqid/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uniqs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/unique-stream/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/universalify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/untildify/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/unzip-response/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/url-parse-lax/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/url-regex/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/user-home/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uuid/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/v8flags/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/vali-date/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/vendors/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/vinyl-assign/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/vinyl-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/vinyl-file/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/vinyl-fs/node_modules/gulp-sourcemaps/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/vinyl-fs/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/vinyl-fs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/vinyl-sourcemaps-apply/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ware/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/weinre/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/when/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/whet.extend/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wiredep-cli/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wiredep/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wiredep/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wiredep/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wiredep/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wrap-fn/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/wtf-8/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/yargs-parser/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/yargs/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/yauzl/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage-8.5/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/charleslanguageservices/web/app/themes/sage/package.json" />
+      <path value="$PROJECT_DIR$/site/web/app/themes/CharlesPhotos2compact/bower_components/bootstrap-sass/package.json" />
+      <path value="$PROJECT_DIR$/site/web/app/themes/CharlesPhotos2compact/package.json" />
+      <path value="$PROJECT_DIR$/site2/web/app/themes/sage/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="840" />
+    <option name="y" value="23" />
+    <option name="width" value="840" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="charlesphotography.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charlesphotography.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charlesphotography.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charlesphotography.com" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charlesphotography.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charlesphotography.com" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charlesphotography.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charlesphotography.com" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charlesphotography.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charlesphotography.com" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charlesphotography.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charlesphotography.com" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="CharlesPhotos2compact" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fda8672-2d2d-4305-b30c-c46c1f45ccba" name="Default" comment="" />
+      <created>1527589852827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527589852827</updated>
+      <workItem from="1527589854742" duration="4305000" />
+      <workItem from="1527616088826" duration="211000" />
+      <workItem from="1528028936898" duration="382000" />
+      <workItem from="1528035016669" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4944000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/wordpress_sites.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/vault.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/development/vault.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/main.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/hosts/production">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/hosts/development">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/ansible.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/development/wordpress_sites.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/wordpress_sites.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/vault.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/development/vault.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/main.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/hosts/production">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/hosts/development">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/ansible.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/development/wordpress_sites.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/wordpress_sites.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/vault.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/development/vault.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/main.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/hosts/development">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/development/wordpress_sites.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/ansible.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/hosts/production">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/main.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/hosts/development">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/wordpress_sites.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/production/vault.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/development/vault.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/ansible.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/hosts/production">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trellis/group_vars/development/wordpress_sites.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

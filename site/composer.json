@@ -41,7 +41,8 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "roots/soil": "3.7.0",
     "wp-sync-db/wp-sync-db": "dev-master@dev",
-    "wp-sync-db/wp-sync-db-media-files": "dev-master"
+    "wp-sync-db/wp-sync-db-media-files": "dev-master",
+    "wpackagist-plugin/svg-support":"2.3.15"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"

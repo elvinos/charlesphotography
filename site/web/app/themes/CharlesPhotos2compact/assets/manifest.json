@@ -41,6 +41,6 @@
     }
   },
   "config": {
-    "devUrl": "charlesphotography.dev"
+    "devUrl": "charlesphotography.test"
   }
 }
