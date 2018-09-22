@@ -6,7 +6,7 @@ wordpress_sites:
   charlesphotography.co.uk:
     site_hosts:
       - canonical: charlesphotography.dev
-    local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
+    local_path: ../charlesphotography # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: admin@charlesphotography.dev
     repo: git@github.com:elvinos/charlesphotography.co.uk.git # replace with your Git repo URL
     multisite:
@@ -19,7 +19,7 @@ wordpress_sites:
   charlesdigital.co.uk:
     site_hosts:
       - canonical: charlesdigital.dev
-    local_path: ../site2 # path targeting local Bedrock site directory (relative to Ansible root)
+    local_path: ../charlesdigital # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: admin@charlesdigital.dev
     multisite:
       enabled: false
@@ -30,9 +30,9 @@ wordpress_sites:
       enabled: false
   charleslanguageservices.com:
     site_hosts:
-      - canonical: charleslanguageservices.dev
+      - canonical: charleslanguageservices.test
     local_path: ../charleslanguageservices # path targeting local Bedrock site directory (relative to Ansible root)
-    admin_email: admin@charleslanguageservices.dev
+    admin_email: admin@charleslanguageservices.test
     multisite:
       enabled: false
     ssl:
