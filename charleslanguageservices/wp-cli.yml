@@ -1,1 +1,7 @@
 path: web/wp
+
+@prod:
+  ssh: web@charleslanguageservices.com/srv/www/charleslanguageservices.com/current
+
+@dev:
+  ssh: vagrant@charleslanguageservices.test/srv/www/charleslanguageservices.com/current
