@@ -6,8 +6,6 @@ wordpress_sites:
   charlesphotography.co.uk:
     site_hosts:
       - canonical: charlesphotography.co.uk
-        redirects:
-          - www.charlesphotography.co.uk
     local_path: ../charlesphotography # path targeting local Bedrock site directory (relative to Ansible root)
     theme: charlesphoto # targeting site main theme for build-before
     repo: git@github.com:elvinos/charlesphotography.git # replace with your Git repo URL
@@ -23,8 +21,6 @@ wordpress_sites:
   charlesdigital.co.uk:
     site_hosts:
       - canonical: charlesdigital.co.uk
-        redirects:
-          - www.charlesdigital.co.uk
     local_path: ../charlesdigital # path targeting local Bedrock site directory (relative to Ansible root)
     theme: sage
     repo: git@github.com:elvinos/charlesphotography.git # replace with your Git repo URL
@@ -40,8 +36,6 @@ wordpress_sites:
   charleslanguageservices.com:
     site_hosts:
       - canonical: charleslanguageservices.com
-        redirects:
-          - www.charleslanguageservices.com
     local_path: ../charleslanguageservices # path targeting local Bedrock site directory (relative to Ansible root)
     theme: sage
     repo: git@github.com:elvinos/charlesphotography.git # replace with your Git repo URL
