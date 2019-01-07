@@ -4,4 +4,4 @@ path: web/wp
   ssh: web@charleslanguageservices.com/srv/www/charleslanguageservices.com/current
 
 @dev:
-  ssh: vagrant@charleslanguageservices.test/srv/www/charleslanguageservices.com/current
+  ssh: vagrant@charlesphotography.test/srv/www/charleslanguageservices.com/current

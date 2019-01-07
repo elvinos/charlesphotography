@@ -1,1 +1,7 @@
 path: web/wp
+
+@prod:
+  ssh: web@charlesdigital.co.uk/srv/www/charlesdigital.co.uk/current
+
+@dev:
+  ssh: vagrant@charlesphotography.test/srv/www/charlesdigital.co.uk/current
