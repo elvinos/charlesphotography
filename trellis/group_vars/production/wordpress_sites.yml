@@ -36,6 +36,7 @@ wordpress_sites:
   charleslanguageservices.com:
     site_hosts:
       - canonical: charleslanguageservices.com
+        redirect: charleslanguageservices.com
     local_path: ../charleslanguageservices # path targeting local Bedrock site directory (relative to Ansible root)
     theme: sage
     repo: git@github.com:elvinos/charlesphotography.git # replace with your Git repo URL
