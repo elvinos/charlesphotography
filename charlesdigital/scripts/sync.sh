@@ -4,7 +4,7 @@ DEVDIR="web/app/uploads/"
 DEVSITE="charlesdigital.test"
 
 PRODDIR="web@charlesdigital.co.uk:/srv/www/charlesdigital.co.uk/current/web/app/uploads/"
-PRODDIRDB="web@charlesphotography.co.uk:/srv/www/charlesdigital.co.uk/current/"
+PRODDIRDB="web@charlesdigital.co.uk:/srv/www/charlesdigital.co.uk/current/"
 PRODSITE="charlesdigital.co.uk"
 
 FROM=$1
