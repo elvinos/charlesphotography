@@ -23,7 +23,7 @@ users:
 web_user: web
 web_group: www-data
 web_sudoers:
-  - "/usr/sbin/service php7.0-fpm *"
+  - "/usr/sbin/service php7.2-fpm *"
 github_ssh_keys:
   - username: elvinos
     authorized:
