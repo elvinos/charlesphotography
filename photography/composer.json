@@ -42,7 +42,22 @@
     "roots/soil": "3.7.0",
     "wp-sync-db/wp-sync-db": "dev-master@dev",
     "wp-sync-db/wp-sync-db-media-files": "dev-master",
-    "wpackagist-plugin/svg-support":"2.3.15"
+    "wpackagist-plugin/svg-support":"2.3.15",
+    "wpackagist-plugin/akismet":"3.2",
+    "wpackagist-plugin/automatic-featured-image-posts":"1.0",
+    "wpackagist-plugin/bulk-seo-image":"1.1",
+    "wpackagist-plugin/wpdiscuz":"4.0.4",
+    "wpackagist-plugin/tiny-compress-images":"2.2.0",
+    "wpackagist-plugin/display-php-version":"1.2",
+    "wpackagist-plugin/duplicator":"1.1.28",
+    "wpackagist-plugin/featured-image-admin-thumb-fiat":"1.4.1",
+    "wpackagist-plugin/instagrate-to-wordpress":"1.2.6",
+    "wpackagist-plugin/jetpack":"4.5",
+    "wpackagist-plugin/limit-login-attempts":"1.7.1",
+    "wpackagist-plugin/loop-post-navigation-links":"2.6.1",
+    "wpackagist-plugin/ninja-forms":"3.0",
+    "wpackagist-plugin/photo-tools-image-taxonomies":"1.9.6",
+    "wpackagist-plugin/regenerate-thumbnails":"2.2.6"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
