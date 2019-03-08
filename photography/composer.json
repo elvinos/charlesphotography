@@ -57,7 +57,8 @@
     "wpackagist-plugin/loop-post-navigation-links":"2.6.1",
     "wpackagist-plugin/ninja-forms":"3.0",
     "wpackagist-plugin/photo-tools-image-taxonomies":"1.9.6",
-    "wpackagist-plugin/regenerate-thumbnails":"2.2.6"
+    "wpackagist-plugin/regenerate-thumbnails":"2.2.6",
+    "wpackagist-plugin/wpcustom-category-image":"2.1.13"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"

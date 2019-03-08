@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "10b0508605b60598bf61b5ab560fd41b",
+    "content-hash": "2425f903812b00ba54cd01038d42953a",
     "packages": [
         {
             "name": "composer/installers",
@@ -847,6 +847,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/tiny-compress-images/"
+        },
+        {
+            "name": "wpackagist-plugin/wpcustom-category-image",
+            "version": "2.1.13",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wpcustom-category-image/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wpcustom-category-image.zip?timestamp=1516124414",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wpcustom-category-image/"
         },
         {
             "name": "wpackagist-plugin/wpdiscuz",
