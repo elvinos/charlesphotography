@@ -6,10 +6,11 @@ wordpress_sites:
   charlesphotography.co.uk:
     site_hosts:
       - canonical: charlesphotography.co.uk
-    local_path: ../charlesphotography # path targeting local Bedrock site directory (relative to Ansible root)
+    local_path: ../photography # path targeting local Bedrock site directory (relative to Ansible root)
     theme: charlesphoto # targeting site main theme for build-before
     repo: git@github.com:elvinos/charlesphotography.git # replace with your Git repo URL
-    repo_subtree_path: charlesphotography # relative path to your Bedrock/WP directory in your repo
+    repo_subtree_path: photography # relative path to your Bedrock/WP directory in your repo
+    subtree_path: photography
     branch: master
     multisite:
       enabled: false
